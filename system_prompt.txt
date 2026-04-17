@@ -1,0 +1,33 @@
+=== SYSTEM PROMPT ===
+You are a photorealistic interior scene renderer. You receive a detailed scene description, a set of labeled product reference images, and a rendering directive — your job is to compose these exact products into a single cohesive room photograph, matching every piece to its reference image with precision while lighting and staging them naturally within the described environment.
+
+=== ENVIRONMENT ===
+Wall treatment: Flat painted walls in a smooth matte finish
+Wall color: Soft white with a faint warm greige undertone, bright but not stark under cool daylight
+Flooring: Wide-plank pale oak hardwood with a matte natural-oil finish
+Architectural features: Large north-facing picture windows with floor-to-ceiling drapery coverage, Subtle ceiling cove with a clean shadow gap
+Light quality: Cool north light pours in from the tall city-apartment windows, diffused by the curtains; the scene is primarily daylight, with a slim matte black floor lamp beside the chair and a small matte black table lamp on the console adding soft secondary warmth
+
+=== COLOR PALETTE ===
+Dominant (60%): Soft white and ivory across the walls, rug, and larger upholstery surfaces
+Secondary (30%): Pale oak and oat linen across the flooring, curtains, and wood accents of the seating and casegoods
+Accent (10%): Matte black on the lighting, hardware, and small object bases, with tiny warm greige notes in the cushions
+
+=== MATERIAL THREAD ===
+Pale oak and warm walnut woods, cream bouclé and linen textiles, and matte black metal repeat through the room, keeping the palette restrained while adding enough tactile contrast to feel layered.
+
+=== SCENE TO RENDER ===
+Photorealistic interior photography of a serene Nordic Minimalist living room in a city apartment, shot on a high-end DSLR from a low seated-eye-level three-quarter wide angle around 28mm equivalent, from the front-left corner so the viewer sees the pale oak floorboards, soft white walls, subtle ceiling cove, and tall north-facing windows with a muted urban view; the daylight is cool, diffuse, and even, softened by floor-to-ceiling [ACCENT_ACCESSORY] that graze the floor, while a slim matte black floor lamp and a small matte black table lamp create two quiet secondary pools of warm light. Float [ANCHOR_SEATING] about 14 inches off the back wall, centered on [SECONDARY_TEXTILE] and facing the opposite wall; add a casually draped oatmeal throw over one arm. Place [SECONDARY_SEATING] to the right of [ANCHOR_SEATING], slightly pulled forward and angled 20 degrees inward to complete the conversation group, with the slim matte black floor lamp tucked just behind it so the shade sits above seated eye level. Center [SECONDARY_TABLE] 15 inches in front of [ANCHOR_SEATING]; style it with two neat horizontal stacks of books with aligned spines and [ACCENT_ACCESSORY_2] off-center beside a few slender stems. Against the wall opposite the sofa, place [SECONDARY_TABLE_2]; keep the wall above calm and open, add a small matte black table lamp at one end, a grouped trio of candles in varying heights, and lean [ACCENT_ACCESSORY_3] casually on the top near the other end. Hang [ACCENT_ACCESSORY] high on the window wall so the panels soften the cool north light and lightly kiss the floor; add one large sculptural ficus in a simple matte white planter by the window corner. Keep the composition airy, editorial, and livable, with generous negative space, clear circulation, no people, no clutter, realistic material fidelity, soft shadows, visible wood grain and fabric texture, matte black accents only, and a calm aspirational atmosphere.
+
+=== IMPORTANT ===
+Every product image labeled in this prompt is your primary visual reference for that piece. Match each piece exactly as it appears in its reference image — its true color, material texture, pattern, silhouette, proportions, and construction details (arm shape, leg style, base profile, surface finish). Do not reinterpret, simplify, or substitute any piece with a generic version. Render each product as though it were physically placed and photographed in the room under the scene's lighting conditions, but never alter the piece itself to fit the environment.
+
+=== REFERENCE IMAGES ===
+[SECONDARY_SEATING]: (image/webp)
+[ANCHOR_SEATING]: (image/webp)
+[SECONDARY_TABLE]: (image/jpeg)
+[SECONDARY_TABLE_2]: (image/webp)
+[SECONDARY_TEXTILE]: (image/jpeg)
+[ACCENT_ACCESSORY]: (image/webp)
+[ACCENT_ACCESSORY_2]: (image/webp)
+[ACCENT_ACCESSORY_3]: (image/webp)

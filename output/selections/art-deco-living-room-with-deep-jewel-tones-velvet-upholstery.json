@@ -1,0 +1,72 @@
+{
+  "dominant_style": "Art Deco Revival",
+  "secondary_style": null,
+  "forbidden_styles": [
+    "Warm Japandi",
+    "Classic American Transitional",
+    "Coastal Hamptons",
+    "Mediterranean Tuscan",
+    "Modern Farmhouse",
+    "Refined Industrial",
+    "Eclectic Bohemian",
+    "Nordic Minimalist"
+  ],
+  "design_intent": "Art Deco Revival living room with deep jewel tones, velvet upholstery, lacquered surfaces, brass hardware, and bold geometric symmetry; glamorous, tailored, and slightly dramatic.",
+  "room_type": "living room",
+  "setting": "city apartment",
+  "light_quality_hint": "evening with artificial light",
+  "color_palette": [
+    "emerald green",
+    "sapphire blue",
+    "burgundy",
+    "black lacquer",
+    "warm brass"
+  ],
+  "selected_pieces": [
+    {
+      "product_id": "fb5416d4-01cd-4a54-b683-71030815643f",
+      "product_name": "BEAUTYPEAK Wavy Round Aluminum Framed Bathroom Vanity Mirrors 24\"x24\",Black",
+      "category": "accessory",
+      "spatial_role": "accent",
+      "placement_note": "Centered on the main wall above the sofa, aligned to create a symmetrical focal point and reflect the brass finishes and evening lamplight.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_37954de8-22db-45c0-8ba8-92607b2d624b",
+      "dimensions": "24\"W × 1\"D × 24\"H"
+    },
+    {
+      "product_id": "fc646fa1-b89b-48d1-995a-523e11c95c6e",
+      "product_name": "JIONJOY 28 x 28 Metal Round Wall Mirror- Gold",
+      "category": "accessory",
+      "spatial_role": "accent",
+      "placement_note": "Hung as a paired mirror element on the opposite side of the focal wall, or layered in a gallery arrangement to reinforce the room’s geometric symmetry and brass accent story.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_33bfe417-ea80-412a-b3ae-3802a5b4bd7d",
+      "dimensions": "28\"W × 1\"D × 28\"H"
+    },
+    {
+      "product_id": "8ee892bf-48a2-4640-94ab-cba43e3ad042",
+      "product_name": "Glam Decorative Ceramic Leaf Bud Vase for Room and Office Decor, White and Gold, 6 L x 6 W x 8 H Inches",
+      "category": "accessory",
+      "spatial_role": "accent",
+      "placement_note": "Placed on the coffee table as a compact sculptural accent, slightly off-center, with a single dramatic stem to soften the hard lines of the metallic and lacquered surfaces.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_21250e7c-97bb-4cd6-9ae2-4eff49f7ce78",
+      "dimensions": "6\"W × 6\"D × 8\"H"
+    },
+    {
+      "product_id": "47f5a998-f075-49f5-aec2-39bef86d2fc0",
+      "product_name": "Manila Round Hammered Drum Coffee Table Brass - Threshold™",
+      "category": "table",
+      "spatial_role": "secondary",
+      "placement_note": "Placed centered in front of the seating area, leaving a clear perimeter walkway; its hammered brass drum form acts as the room’s metallic centerpiece and echoes Art Deco glamour.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_02b75f1e-658a-4916-9ebd-0db1815b3634",
+      "dimensions": "26\"W × 26\"D × 12\"H"
+    },
+    {
+      "product_id": "c80b542f-efac-4706-b35c-15db7bad0b47",
+      "product_name": "7'X10' Vintage Tufted Distressed Area Rug Tan - Threshold™",
+      "category": "textile",
+      "spatial_role": "secondary",
+      "placement_note": "Anchored under the sofa and coffee table with generous borders visible on all sides, laying a quiet base so the jewel-toned upholstery and brass details read more vividly.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_efba98d6-0faf-4a8a-894f-296b259b5f2e",
+      "dimensions": "84\"W × 120\"D × 1\"H"
+    }
+  ]
+}

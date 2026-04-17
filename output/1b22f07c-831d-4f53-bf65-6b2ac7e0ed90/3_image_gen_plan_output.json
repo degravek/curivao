@@ -1,0 +1,69 @@
+{
+  "design_intent": "Warm Modern Farmhouse living room with shiplap, natural wood, cozy black accents, relaxed tailored upholstery, soft texture, and lived-in comfort in a bright suburban setting.",
+  "environment": {
+    "wall_treatment": "painted shiplap",
+    "wall_color": "warm white with a soft creamy undertone",
+    "flooring": "wide-plank natural oak hardwood in a warm medium tone",
+    "architectural_features": [
+      "fireplace media wall",
+      "large south-facing windows",
+      "wide cased opening to the adjoining dining area"
+    ],
+    "background_space": "open view to a calm adjoining dining area through a wide cased opening, keeping the room bright and suburban in feel",
+    "light_quality": "bright midday south light softened by full-height drapery, with additional warm ambient glow from wall sconces and a floor lamp"
+  },
+  "focal_point": "The fireplace media wall on the wall opposite the sofa.",
+  "color_palette": {
+    "dominant_60": {
+      "color": "warm white and oatmeal linen",
+      "applied_to": "shiplap walls, ceiling trim, the main seating foundation, and the area rug base"
+    },
+    "secondary_30": {
+      "color": "soft greige and natural oak",
+      "applied_to": "full-height window drapery, wood flooring, and secondary trim surfaces"
+    },
+    "accent_10": {
+      "color": "matte black",
+      "applied_to": "lighting fixtures, small decor accents, and hardware"
+    }
+  },
+  "material_thread": "painted shiplap, natural oak, and matte black metal, echoed by soft linen textiles",
+  "placements": [
+    {
+      "product_id": "5f56f395-fc50-4c69-9e98-693fe92ddfe0",
+      "product_name": "Farmhouse Beige Linen-like Sofa with Rolled Arm and Nailhead Trim, 3-Seater Couch for Living Room",
+      "placement": "Centered on the main shiplap wall and floated slightly off it so the seating reads as grounded but not pushed flat to the perimeter; orient it directly toward the fireplace media wall, with equal breathing room on both sides and enough depth in front for the coffee table."
+    },
+    {
+      "product_id": "e04d0dbf-5c82-44e3-a73e-e90b8d5842ea",
+      "product_name": "Wooden Round Pedestal Coffee Table - Natural",
+      "placement": "Placed directly in front of the sofa, centered on the rug and aligned to the sofa's midpoint, with about 15 inches of clearance from the sofa edge and comfortable circulation around the sides."
+    },
+    {
+      "product_id": "e3d37b06-b309-4a8d-9431-a31068143321",
+      "product_name": "VINGLI TV Stands & Entertainment Centers For Tvs Up To 70'' Farmhouse with 18'' Fireplace",
+      "placement": "Set centered on the wall opposite the sofa, directly on the room axis so it functions as the focal wall from the primary seating; leave balanced clearance to either side and keep the sightline unobstructed from sofa to media wall."
+    },
+    {
+      "product_id": "c80b542f-efac-4706-b35c-15db7bad0b47",
+      "product_name": "7'X10' Vintage Tufted Distressed Area Rug Tan - Threshold™",
+      "placement": "Laid under the full conversation zone, parallel to the sofa, with the front legs of the sofa resting on it and the coffee table fully centered within its boundaries."
+    },
+    {
+      "product_id": "4f8dff60-1bfd-4524-b2e8-3548b09601cc",
+      "product_name": "Brighton Windowpane Plaid Lined Room Darkening Single Window Curtain Panel - 52\" x 108\" - Gray - Elrene Home Fashions",
+      "placement": "Hung at the main south-facing windows from near ceiling height to the floor, with the panel stacked cleanly to one side so the glazing stays open and bright."
+    },
+    {
+      "product_id": "844dead5-eb7e-436d-b1c4-d10ee2abbd5a",
+      "product_name": "2pk Square Cotton Woven Stripe Throw Pillows Neutral/Ivory - Threshold™",
+      "placement": "Placed as a pair at the outer ends of the sofa, layered against the back cushions to soften the seating composition while keeping the center line open toward the coffee table."
+    },
+    {
+      "product_id": "42869a6c-6dd6-4787-bcca-cdddb32159d6",
+      "product_name": "LuxenHome 16\" Floor Vase, Cement White Rustic Vases for Flowers, Large Vases for Decor Living Room, Decorative Flower Vase for Home Decor",
+      "placement": "Set on the floor beside the media console at the outer edge of the fireplace wall, just off the main circulation path and visible from the sofa without interrupting the approach."
+    }
+  ],
+  "scene_description": "Photorealistic interior photography in a three-quarter wide shot from a corner at seated eye level with a 28–35mm lens, so the room reads with natural depth from the foreground rug edge to the far focal wall. The envelope is warm white painted shiplap with simple trim, paired with wide-plank natural oak flooring and a straightforward fireplace media wall that gives the suburban living room a grounded, family-ready center. Tall windows on the south side bring in bright midday light, softened by full-height drapery, while a pair of simple matte black wall sconces and a matching floor lamp add a quiet secondary glow. Keep the styling edited and livable: a few horizontal stacks of books, one substantial indoor plant for height, grouped candles in mixed heights, an easy throw draped casually, and cushions arranged in odd numbers for a relaxed, lived-in rhythm. Preserve generous negative space around the main seating zone so the room feels warm, tailored, and comfortable rather than crowded."
+}

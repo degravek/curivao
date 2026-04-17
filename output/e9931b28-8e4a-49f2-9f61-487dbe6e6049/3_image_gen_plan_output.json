@@ -1,0 +1,74 @@
+{
+  "design_intent": "Eclectic Bohemian living room with layered textiles, warm jewel tones, global patterns, carved wood, and collected vintage character in a relaxed, artful atmosphere.",
+  "environment": {
+    "wall_treatment": "subtly textured limewash",
+    "wall_color": "warm terracotta-clay with a soft sand-beige undertone",
+    "flooring": "wide-plank warm walnut hardwood",
+    "architectural_features": [
+      "tall city-apartment windows",
+      "coved ceiling",
+      "shallow arched opening to the adjoining hall"
+    ],
+    "background_space": "a partial hallway glimpse and a small adjacent room visible through the arched opening",
+    "light_quality": "overcast soft light filtered through the tall windows, diffuse and shadow-soft, with warm lamp accents for balance"
+  },
+  "focal_point": "the fireplace media wall on the far side of the room, centered on the wall opposite the sofa",
+  "color_palette": {
+    "dominant_60": {
+      "color": "warm terracotta-clay and sand-beige warmth",
+      "applied_to": "the limewashed walls, the rug foundation, and the room’s overall earthy base tone"
+    },
+    "secondary_30": {
+      "color": "deep teal and indigo",
+      "applied_to": "layered accent textiles, cushions, and any visible soft styling details"
+    },
+    "accent_10": {
+      "color": "saffron gold",
+      "applied_to": "small decor accents, candle groupings, and lamp hardware"
+    }
+  },
+  "material_thread": "walnut wood, woven natural fibers, and textured plaster",
+  "placements": [
+    {
+      "product_id": "b7f32884-87c9-4910-aac2-503d6ed30615",
+      "product_name": "Modern 3-Seater Sofa Premium Boucle Fabric Textured Sofa Couch with Wood Accent Armrests & Rubberwood Legs, Beige - ModernLuxe",
+      "placement": "Float the sofa on the main seating wall opposite the fireplace media wall, centered to the room and turned slightly toward the focal wall so the seating faces it directly. Pull it just off the wall to preserve a slim breathing gap behind it, and keep the left rear side open so the circulation path and textile layering remain clear."
+    },
+    {
+      "product_id": "601b1c12-48be-403a-8682-6a5ab8ede266",
+      "product_name": "Costway Rattan Coffee Table Mid Century Modern Center Table with 2 Storage Drawers",
+      "placement": "Set the coffee table directly in front of the sofa, centered on the rug and aligned to the sofa’s axis, with roughly 16–18 inches of reach space between the table edge and the seating edge."
+    },
+    {
+      "product_id": "e3d37b06-b309-4a8d-9431-a31068143321",
+      "product_name": "VINGLI TV Stands & Entertainment Centers For Tvs Up To 70'' Farmhouse with 18'' Fireplace",
+      "placement": "Center the media console on the wall opposite the sofa so it becomes the room’s visual anchor, keeping clear side margins and leaving the wall composition above it available for centered styling while maintaining a direct sightline from the seating group."
+    },
+    {
+      "product_id": "ebc73d37-ef85-46a2-b716-8198cf862260",
+      "product_name": "5'x7' Washable Fringed Medallion Area Rug Rust - Threshold™",
+      "placement": "Lay the rug beneath the full seating group so the sofa’s front legs and the coffee table sit on it, oriented parallel to the sofa and extending forward to define the conversation zone without blocking the room edges."
+    },
+    {
+      "product_id": "d83719b7-a3b4-4cc0-91ec-2049d8c108cf",
+      "product_name": "Oversized Blocked Woven Square Throw Pillow Neutral - Threshold™",
+      "placement": "Place one pillow at the far outer corner of the sofa to start an asymmetrical cluster on the seating surface, keeping it visible from the primary viewpoint."
+    },
+    {
+      "product_id": "14dc8644-8d73-4555-a663-4084f2935e23",
+      "product_name": "Stone Washed and Distressed Cotton Decor Throw Pillow Cover And Pillow Insert Set - Becky Cameron, Stone Washed Olive, 20 x 20",
+      "placement": "Layer this pillow slightly in front of the first pillow in the same sofa corner so the grouping reads with depth and a relaxed, collected feel."
+    },
+    {
+      "product_id": "31459d00-3b59-4469-b55f-fe871ce3cbd3",
+      "product_name": "Square Floral Pillow - Threshold™",
+      "placement": "Set this pillow at the opposite outer corner of the sofa, offset slightly toward the seat back so the sofa reads as an intentionally mixed odd-number grouping."
+    },
+    {
+      "product_id": "2b5492c0-ed5c-4423-8f10-f96946a15bb4",
+      "product_name": "Pottery Arch Handle Planter for Home Decor - Decorative Flower Pot for Living Room Decor, Shelf Accent, and Patio - Indoor and Outdoor - 8\", White",
+      "placement": "Place the planter on one end of the media console top, offset from center so it reads as a small accent vignette while leaving the focal centerline open; add a tall leafy plant to rise above it."
+    }
+  ],
+  "scene_description": "Photorealistic interior photography, three-quarter wide shot from seated eye level with a 28mm lens, capturing the room diagonally so the space feels collected, intimate, and breathable. Treat the apartment as an older city living room with softly textured limewashed walls in a warm clay register, broad walnut flooring, tall windows, and a shallow arched opening that adds depth without visual clutter. Overcast soft light from the windows is the primary illumination, diffuse and shadow-soft, while an aged-brass floor lamp and table lamp provide a gentle warm counterpoint. Keep generous negative space around the perimeter so the room can breathe, and let the center feel layered but not crowded. Style the surfaces with a few horizontal book stacks, grouped candles in mixed heights, one generous leafy plant, a casually draped throw, and cushions arranged in odd-numbered groupings with varied scale and texture. The atmosphere should feel artful, lived-in, globally collected, and relaxed, with warm earthy foundations punctuated by deeper jewel-tone accents and a subtle saffron-gold lift."
+}

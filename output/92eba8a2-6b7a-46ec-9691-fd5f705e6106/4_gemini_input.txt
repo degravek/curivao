@@ -1,0 +1,33 @@
+You work as a master photorealistic interior design renderer for a premium "buy this look" furniture retail platform. Customers will view your generated images and can purchase the exact, real-world furniture pieces displayed within them. Your task is to compose a high-end, photorealistic living space using the exact furniture pieces provided in the attached reference images. You must integrate these items naturally into the described environment while preserving their exact real-world appearance without any alteration.
+
+=== Environment ===
+Photorealistic interior photography in a three-quarter wide shot from seated eye level with a 28mm lens, looking diagonally across a moody urban loft living room. The space should feel grounded in exposed brick, polished concrete, steel-framed factory windows, and visible ductwork, with the media wall as the clear visual anchor and an open-plan kitchen softly receding in the background. Keep the daylight cool, diffuse, and overcast, with no harsh sun patches; supplement it with a warm floor lamp and subtle ambient wall light so the seating zone reads inviting against the harder architecture. Preserve generous negative space and crisp circulation around the vignette. Style the room sparingly but intentionally: a few horizontal book stacks with aligned spines, one substantial plant, grouped candles in mixed heights, a casually draped throw, and cushions in odd numbers to add lived-in texture without clutter. The overall mood should be quiet, tactile, and restrained, balancing charcoal shadow, brick warmth, smoked wood, and cognac accents.
+
+=== Important ===
+The room must feel aspirational but achievable — real enough to want, beautiful enough to inspire. The composition must feel like a designed space, not a furniture showroom with items dropped in. The reference photographs are the single source of truth for each product's appearance. Reproduce its silhouette, proportions, color, material, texture, pattern, hardware, leg style, arm style, frame profile, and every construction detail exactly as shown. Do not substitute, stylize, simplify, or 'improve' any piece. A user must be able to recognize each product in the final image and buy the exact item.
+
+=== Note Regarding Reference Images ===
+When processing the reference images, cognitively isolate the furniture items from their original backgrounds. You must seamlessly integrate these isolated pieces into the new 3D architectural space, applying the room's lighting, ambient occlusion, and floor-contact shadows to the items so they belong in the environment.
+
+If the scene's 28mm camera perspective requires the item to be viewed from a different angle than the original reference photo, accurately extrapolate the 3D geometry of the piece. You must maintain absolute strict adherence to the original proportions, patterns, silhouette, and face/side details. Do not distort or warp the furniture to fit the perspective; instead, build the room's perspective around the true scale and shape of the references.
+
+=== Product Visibility ===
+Because this is a shoppable retail image, every reference piece must remain prominently and clearly visible. Do not obscure key design elements, legs, arms, or silhouettes behind styling props, large plants, deep shadows, or overlapping furniture. The customer must be able to clearly see and evaluate what they are buying.
+
+[cebb36f1-0510-4e3f-b790-e39f76b90ed1 | 45"W x 33"D x 34"H] — Float it in the primary seating zone near the brick wall, kept a few inches off the surface and angled slightly inward toward the media wall so it faces the TV directly; preserve enough clearance behind it for circulation and enough reach to the coffee table in front.:
+(image)
+
+[33a6b783-85d9-4b99-9c6d-9a26fba72767 | 20"W x 28"D x 16"H] — Center it on the rug directly in front of the chair, aligned parallel to the media wall and set about 16 inches from the chair’s front edge so it remains fully reachable from the seating position.:
+(image)
+
+[e2fdafa1-f44d-4fbb-b67c-5aea3a42d05a | 16"W x 47"D x 24"H] — Center it on the exposed brick focal wall beneath the TV, with balanced margins on both sides and the chair sightline aimed straight toward it; keep it visually anchored to the wall without blocking the traffic path.:
+(image)
+
+[66a9033f-6d4c-40d9-8a01-0f7c91fe61f9 | 94"W x 118"D x 0"H] — Lay it under the full seating vignette, aligned to the media wall so the chair’s front legs and the coffee table sit on it, with a clear concrete border visible around the perimeter.:
+(image)
+
+[b05c3034-60a3-4341-a977-3090b278a33a] — Hang them floor-to-ceiling on the tallest steel-framed window opening along the side wall, letting the rod extend beyond the frame and the hems graze or lightly pool on the floor to soften the industrial shell.:
+(image)
+
+[306db125-4c8f-4714-b003-a8efc1b59af0 | 4"W x 10"D x 10"H] — Place it on the TV console at one end, offset from the screen centerline so it reads as a small accent and preserves open negative space across the media wall.:
+(image)

@@ -1,0 +1,64 @@
+{
+  "design_intent": "Art Deco Revival living room with deep jewel tones, velvet upholstery, lacquered surfaces, brass hardware, and bold geometric symmetry; glamorous, tailored, and slightly dramatic.",
+  "environment": {
+    "wall_treatment": "full-height painted geometric paneling",
+    "wall_color": "deep emerald green with a cool blue undertone",
+    "flooring": "charcoal-stained oak herringbone hardwood",
+    "architectural_features": [
+      "stepped ceiling cove",
+      "large windows",
+      "geometric wall paneling"
+    ],
+    "background_space": "dark city skyline through tall glazing, with a narrow glimpse of an adjacent dining nook through an open passage",
+    "light_quality": "evening with artificial light: warm brass sconces and a soft concealed cove glow provide the primary illumination, while the windows read as dark reflective planes"
+  },
+  "focal_point": "Balanced pair of wall mirrors centered on the main wall behind the lounge axis",
+  "color_palette": {
+    "dominant_60": {
+      "color": "deep emerald green",
+      "applied_to": "main wall treatment and the largest grounded textile planes, keeping the room richly enveloped and cool-toned"
+    },
+    "secondary_30": {
+      "color": "sapphire blue with burgundy accents",
+      "applied_to": "secondary textiles, window treatments, cushions, and layered decorative notes"
+    },
+    "accent_10": {
+      "color": "warm brass with black lacquer details",
+      "applied_to": "lighting, mirror frames, coffee table, hardware, and small reflective accents"
+    }
+  },
+  "material_thread": "geometric painted paneling, dark oak herringbone flooring, warm brass metalwork, and mirror glass with black lacquer accents",
+  "placements": [
+    {
+      "product_id": "fb5416d4-01cd-4a54-b683-71030815643f",
+      "generic_name": "wall mirror",
+      "product_name": "BEAUTYPEAK Wavy Round Aluminum Framed Bathroom Vanity Mirrors 24\"x24\",Black",
+      "placement": "Hung on the main wall above the primary lounge axis, slightly left of center so it reads as the left anchor of a balanced pair; keep it at the same visual band as the companion mirror and high enough to preserve clear sightlines from the seating area."
+    },
+    {
+      "product_id": "fc646fa1-b89b-48d1-995a-523e11c95c6e",
+      "generic_name": "wall mirror",
+      "product_name": "JIONJOY 28 x 28 Metal Round Wall Mirror- Gold",
+      "placement": "Hung on the same main wall, slightly right of center and at the same height as the first mirror, so the two pieces form a tight, formal pair with equal visual weight across the lounge axis."
+    },
+    {
+      "product_id": "8ee892bf-48a2-4640-94ab-cba43e3ad042",
+      "generic_name": "accent vase",
+      "product_name": "Glam Decorative Ceramic Leaf Bud Vase for Room and Office Decor, White and Gold, 6 L x 6 W x 8 H Inches",
+      "placement": "Set on the coffee table slightly off-center toward the room’s more open side, leaving breathing room around it and preserving a clear landing zone for books and candles."
+    },
+    {
+      "product_id": "47f5a998-f075-49f5-aec2-39bef86d2fc0",
+      "generic_name": "coffee table",
+      "product_name": "Manila Round Hammered Drum Coffee Table Brass - Threshold™",
+      "placement": "Centered on the rug in front of the seating group, approximately 14–18 inches from the front edge of the sofa line, with a clear circulation ring around it."
+    },
+    {
+      "product_id": "c80b542f-efac-4706-b35c-15db7bad0b47",
+      "generic_name": "area rug",
+      "product_name": "7'X10' Vintage Tufted Distressed Area Rug Tan - Threshold™",
+      "placement": "Laid beneath the lounge composition and aligned to the main wall, with generous visible border on all sides and enough coverage for the front legs of the seating group to rest on it while the coffee table remains fully centered."
+    }
+  ],
+  "scene_description": "Photorealistic interior photography of an Art Deco Revival living room in a city apartment, captured from seated eye level in a three-quarter wide shot with a 28mm lens so the main wall, adjacent side wall, ceiling cove, and full floor plane all read clearly. The room is organized around a formal, symmetrical lounge axis and a jewel-toned focal wall, with crisp geometric paneling, dark herringbone flooring, and black-lacquer accents that keep the composition tailored and glamorous. Evening with artificial light is the mood: warm brass sconces and a soft concealed cove glow provide the primary illumination, while the windows fall into a dark city-night backdrop. Keep the room polished but spacious, with clear negative space around the core arrangement. Style the surfaces sparingly and deliberately: a few horizontal stacks of books, grouped candles in varying heights, one substantial living plant, a casually draped throw, and odd-numbered cushions with varied scale and texture. Use sapphire blue and burgundy as the secondary textile notes, and let warm brass punctuate the room in hardware and small reflective accents. The overall effect should feel dramatic, balanced, and impeccably composed, with light catching the metallic details without overpowering the quiet symmetry."
+}

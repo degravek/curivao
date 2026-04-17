@@ -1,0 +1,81 @@
+{
+  "dominant_style": "Art Deco Revival",
+  "secondary_style": null,
+  "forbidden_styles": [
+    "Warm Japandi",
+    "Classic American Transitional",
+    "Coastal Hamptons",
+    "Mediterranean Tuscan",
+    "Modern Farmhouse",
+    "Refined Industrial",
+    "Eclectic Bohemian",
+    "Nordic Minimalist"
+  ],
+  "design_intent": "Hollywood Regency living room with high-gloss lacquer, mirrored surfaces, bold geometric pattern, faux fur texture, and polished maximalist glamour.",
+  "room_type": "living room",
+  "setting": "city apartment",
+  "light_quality_hint": "evening with artificial light",
+  "color_palette": [
+    "black lacquer",
+    "mirrored silver",
+    "deep emerald",
+    "ivory faux fur",
+    "champagne gold"
+  ],
+  "selected_pieces": [
+    {
+      "product_id": "fc646fa1-b89b-48d1-995a-523e11c95c6e",
+      "product_name": "JIONJOY 28 x 28 Metal Round Wall Mirror- Gold",
+      "category": "accessory",
+      "spatial_role": "accent",
+      "placement_note": "Centered above the main sofa on the largest wall, hung slightly high to catch lamplight and multiply reflections across the room.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_33bfe417-ea80-412a-b3ae-3802a5b4bd7d",
+      "dimensions": "28\"W × 1\"D × 28\"H"
+    },
+    {
+      "product_id": "47f5a998-f075-49f5-aec2-39bef86d2fc0",
+      "product_name": "Manila Round Hammered Drum Coffee Table Brass - Threshold™",
+      "category": "table",
+      "spatial_role": "secondary",
+      "placement_note": "Centered in front of the seating group, leaving a generous 16-inch clearance from the sofa edge to keep the room feeling crisp and glamorous.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_02b75f1e-658a-4916-9ebd-0db1815b3634",
+      "dimensions": "26\"W × 26\"D × 12\"H"
+    },
+    {
+      "product_id": "8ee892bf-48a2-4640-94ab-cba43e3ad042",
+      "product_name": "Glam Decorative Ceramic Leaf Bud Vase for Room and Office Decor, White and Gold, 6 L x 6 W x 8 H Inches",
+      "category": "accessory",
+      "spatial_role": "accent",
+      "placement_note": "Placed off-center on the coffee table with a few glossy stems, creating a small sculptural moment without blocking the mirror-like tabletop sheen.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_21250e7c-97bb-4cd6-9ae2-4eff49f7ce78",
+      "dimensions": "6\"W × 6\"D × 8\"H"
+    },
+    {
+      "product_id": "f8032285-438d-475b-8475-7d9e087ad7a1",
+      "product_name": "Small Brass Vase - Threshold™",
+      "category": "accessory",
+      "spatial_role": "accent",
+      "placement_note": "Clustered beside the ceramic vase on the coffee table, adding a second metallic note that echoes the gold mirror frame and reinforces the Art Deco glamour.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_e267a29d-8b12-4aac-9cd1-53886bfc7b0b",
+      "dimensions": "4\"W × 4\"D × 7\"H"
+    },
+    {
+      "product_id": "c80b542f-efac-4706-b35c-15db7bad0b47",
+      "product_name": "7'X10' Vintage Tufted Distressed Area Rug Tan - Threshold™",
+      "category": "textile",
+      "spatial_role": "secondary",
+      "placement_note": "Layered beneath the full seating arrangement with the front legs of the sofa and chairs resting on it, defining the lounge zone and softening the floor under evening light.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_efba98d6-0faf-4a8a-894f-296b259b5f2e",
+      "dimensions": "84\"W × 120\"D × 1\"H"
+    },
+    {
+      "product_id": "b05c3034-60a3-4341-a977-3090b278a33a",
+      "product_name": "Heavyweight Velvet Curtain Rod Pocket Panels (Set of 2) Beige 120”",
+      "category": "textile",
+      "spatial_role": "accent",
+      "placement_note": "Hung floor-to-ceiling at the primary window, puddling just slightly so the velvet panels frame the room with a formal, theatrical drape.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_b0ee1692-92ff-4968-bc1f-94767498959e",
+      "dimensions": "52\"W × 120\"D × 0\"H"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "dominant_style": "Modern Farmhouse",
+  "secondary_style": "Classic American Transitional",
+  "forbidden_styles": [
+    "Refined Industrial",
+    "Coastal Hamptons",
+    "Nordic Minimalist",
+    "Art Deco Revival",
+    "Mediterranean Tuscan",
+    "Moody Maximalist",
+    "Eclectic Bohemian",
+    "Warm Japandi"
+  ],
+  "design_intent": "Warm Modern Farmhouse living room with shiplap, natural wood, cozy black accents, relaxed tailored upholstery, soft texture, and lived-in comfort in a bright suburban setting.",
+  "room_type": "living room",
+  "setting": "suburban home",
+  "light_quality_hint": "bright midday south light",
+  "color_palette": [
+    "warm white",
+    "natural oak",
+    "matte black",
+    "oatmeal linen",
+    "soft greige"
+  ],
+  "selected_pieces": [
+    {
+      "product_id": "5f56f395-fc50-4c69-9e98-693fe92ddfe0",
+      "product_name": "Farmhouse Beige Linen-like Sofa with Rolled Arm and Nailhead Trim, 3-Seater Couch for Living Room",
+      "category": "seating",
+      "spatial_role": "anchor",
+      "placement_note": "Centered on the main shiplap wall, floated slightly off the wall with two oatmeal pillows and one black lumbar pillow to introduce the room\u2019s accent color.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_6d5c61c6-e4b4-48d2-ae0d-816f96b0b0ea",
+      "dimensions": "88\"W x 35\"D x 35\"H"
+    },
+    {
+      "product_id": "e04d0dbf-5c82-44e3-a73e-e90b8d5842ea",
+      "product_name": "Wooden Round Pedestal Coffee Table - Natural",
+      "category": "table",
+      "spatial_role": "secondary",
+      "placement_note": "Placed directly in front of the sofa, centered on the rug, with enough clearance for easy circulation and a simple bowl or stack of books on top.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_886fce3d-7cb2-4515-9222-61027bc31216",
+      "dimensions": "32\"W x 32\"D x 18\"H"
+    },
+    {
+      "product_id": "e3d37b06-b309-4a8d-9431-a31068143321",
+      "product_name": "VINGLI TV Stands & Entertainment Centers For Tvs Up To 70'' Farmhouse with 18'' Fireplace",
+      "category": "storage",
+      "spatial_role": "anchor",
+      "placement_note": "Mounted on the opposite wall as the media focal point, aligned low and centered so the fireplace glow anchors the seating area without overpowering the farmhouse palette.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_e92b3a96-47dc-4cea-8bd9-2aae340132ae",
+      "dimensions": "59\"W x 16\"D x 24\"H"
+    },
+    {
+      "product_id": "c80b542f-efac-4706-b35c-15db7bad0b47",
+      "product_name": "7'X10' Vintage Tufted Distressed Area Rug Tan - Threshold\u2122",
+      "category": "textile",
+      "spatial_role": "secondary",
+      "placement_note": "Laid under the full seating arrangement, with the front legs of the sofa resting on it to ground the room in a warm, softly aged texture.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_efba98d6-0faf-4a8a-894f-296b259b5f2e",
+      "dimensions": "84\"W x 120\"D x 0\"H"
+    },
+    {
+      "product_id": "4f8dff60-1bfd-4524-b2e8-3548b09601cc",
+      "product_name": "Brighton Windowpane Plaid Lined Room Darkening Single Window Curtain Panel - 52\" x 108\" - Gray - Elrene Home Fashions",
+      "category": "accessory",
+      "spatial_role": "accent",
+      "placement_note": "Hung floor-to-ceiling at the main windows to add soft vertical lines, keep the room bright, and subtly reinforce the farmhouse pattern language.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_5600d92f-477a-430d-8f92-94337140e1e0",
+      "dimensions": null
+    },
+    {
+      "product_id": "844dead5-eb7e-436d-b1c4-d10ee2abbd5a",
+      "product_name": "2pk Square Cotton Woven Stripe Throw Pillows Neutral/Ivory - Threshold\u2122",
+      "category": "accessory",
+      "spatial_role": "accent",
+      "placement_note": "Layered at each end of the sofa to soften the silhouette and add a crisp woven texture that echoes the shiplap and wood tones.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_a49ce0f7-2778-486a-a24a-69fc24562f4e",
+      "dimensions": "18\"W x 18\"D x 12\"H"
+    },
+    {
+      "product_id": "42869a6c-6dd6-4787-bcca-cdddb32159d6",
+      "product_name": "LuxenHome 16\" Floor Vase, Cement White Rustic Vases for Flowers, Large Vases for Decor Living Room, Decorative Flower Vase for Home Decor",
+      "category": "accessory",
+      "spatial_role": "accent",
+      "placement_note": "Styled beside the fireplace media console on the floor or a low corner ledge, filled with airy stems for height and a quiet rustic note.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_270682b6-a373-4c0c-82f2-582647c4130b",
+      "dimensions": "13\"W x 13\"D x 16\"H"
+    }
+  ]
+}

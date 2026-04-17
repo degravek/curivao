@@ -1,0 +1,100 @@
+{
+  "dominant_style": "Classic American Transitional",
+  "secondary_style": null,
+  "forbidden_styles": [
+    "Art Deco Revival",
+    "Moody Maximalist",
+    "Mediterranean Tuscan",
+    "Refined Industrial",
+    "Coastal Hamptons",
+    "Eclectic Bohemian",
+    "Nordic Minimalist",
+    "Modern Farmhouse",
+    "Warm Japandi"
+  ],
+  "design_intent": "A warm, optimistic living room with walnut tones, tapered-leg silhouettes, clean-lined upholstery, and mustard-teal accents that nod to atomic-age mid-century charm without losing transitional comfort.",
+  "room_type": "living room",
+  "setting": "suburban home",
+  "light_quality_hint": "bright midday south light",
+  "color_palette": [
+    "walnut brown",
+    "warm mustard",
+    "muted teal",
+    "oat linen",
+    "matte black"
+  ],
+  "selected_pieces": [
+    {
+      "product_id": "0e5de42c-a91f-4c83-9e5b-4e3928779ecc",
+      "product_name": "Erommy 3 Seat Sofa with 4 Wood Legs, Modern Sofa Couch for Living Room, Bedroom, Apartment, Office",
+      "category": "seating",
+      "spatial_role": "anchor",
+      "placement_note": "Centered on the main wall as the primary seating anchor, floated slightly off the wall, with the low back facing into the room and the dark wood legs fully visible.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_5e731038-097b-45e2-b7dd-146595dc7f50",
+      "dimensions": "72\"W × 34\"D × 30\"H"
+    },
+    {
+      "product_id": "e7dba5a1-91be-42c1-ac7c-5c229846627c",
+      "product_name": "Tree City- 58\" Upholstered Mid-Century Modern Faux Leather Square Arm Sofa Loveseat",
+      "category": "seating",
+      "spatial_role": "anchor",
+      "placement_note": "Placed opposite the sofa near the window side as a compact secondary anchor, angled slightly toward the coffee table to create a conversational grouping.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_ddee3a38-2df6-4805-8189-5be708290be0",
+      "dimensions": "58\"W × 31\"D × 33\"H"
+    },
+    {
+      "product_id": "9da2909d-831a-4832-b913-8d6ee720aeff",
+      "product_name": "Costway 2-Tier Round Coffee Table with Wood Grain Finish & Heavy-duty Metal Frame",
+      "category": "table",
+      "spatial_role": "secondary",
+      "placement_note": "Centered between the sofa and loveseat, aligned to the seating cluster, with enough clearance around it to show the round top and lower shelf.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_3a26da1b-5317-4086-9d3a-4f7b8a7520cd",
+      "dimensions": "34\"W × 34\"D × 18\"H"
+    },
+    {
+      "product_id": "c80b542f-efac-4706-b35c-15db7bad0b47",
+      "product_name": "7'X10' Vintage Tufted Distressed Area Rug Tan - Threshold™",
+      "category": "textile",
+      "spatial_role": "secondary",
+      "placement_note": "Laid under the entire seating arrangement, with the front legs of both seating pieces resting on the rug to visually unify the zone.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_efba98d6-0faf-4a8a-894f-296b259b5f2e",
+      "dimensions": "84\"W × 120\"D × 1\"H"
+    },
+    {
+      "product_id": "3f7633df-ecc8-49aa-a0c8-f68ca88360f9",
+      "product_name": "2-Pack Yarn-Dyed Patterns Gray Throw Pillows - Becky Cameron, Gray Yarn-Dyed Bengal Stripe / Yarn-Dyed Framed Stripe, 20 x 20",
+      "category": "accessory",
+      "spatial_role": "accent",
+      "placement_note": "Layered on the sofa in pairs, mixed with warmer mustard pillows if added later, to introduce a subtle graphic note without overpowering the room.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_9291e204-059b-4772-b45c-66be990cfb1e",
+      "dimensions": "20\"W × 20\"D × 4\"H"
+    },
+    {
+      "product_id": "8c26edab-7c25-4b19-b341-99da12ef79fc",
+      "product_name": "Square Linen Throw Pillow with Flange Neutral - Threshold™",
+      "category": "accessory",
+      "spatial_role": "accent",
+      "placement_note": "Placed at the ends of the sofa and loveseat to soften the darker walnut and leather tones with a calm oat-linen texture.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_42ba24da-d4e4-46d0-912b-17dd6b32ed72",
+      "dimensions": "18\"W × 18\"D × 6\"H"
+    },
+    {
+      "product_id": "bb7dd338-aaaf-4296-9054-0a7f3d191d8c",
+      "product_name": "36\" x 24\" Over the Mantel Mirror Gold - Threshold™: Rounded Top, Metal Frame, Wall Mounted",
+      "category": "accessory",
+      "spatial_role": "accent",
+      "placement_note": "Hung centered above the sofa on the main wall to bounce midday light deeper into the room and add a warm metallic focal point.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_04d096b1-84d1-4c1c-8847-81305664f4bb",
+      "dimensions": "36\"W × 1\"D × 24\"H"
+    },
+    {
+      "product_id": "306db125-4c8f-4714-b003-a8efc1b59af0",
+      "product_name": "Sculpted Textured Metal Vase for Living Room Decor - Decorative Flower Vase for Home, Bedroom, and Office Desk Decor -11\", Gold & Metallic",
+      "category": "accessory",
+      "spatial_role": "accent",
+      "placement_note": "Styled on the coffee table as a single sculptural object, slightly off-center, to echo the mirror’s metallic warmth and the room’s atomic-age optimism.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_4161e2db-9abd-40a0-9b72-0cd8198fee4b",
+      "dimensions": "4\"W × 10\"D × 10\"H"
+    }
+  ]
+}

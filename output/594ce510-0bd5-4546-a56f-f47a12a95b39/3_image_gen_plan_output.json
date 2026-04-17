@@ -1,0 +1,73 @@
+{
+  "design_intent": "A serene Nordic Minimalist living room with pale oak, oat linen, soft whites, and airy proportions, grounded by clean lines and tactile restraint under cool natural daylight.",
+  "environment": {
+    "wall_treatment": "flat painted",
+    "wall_color": "soft white with a faint warm greige undertone",
+    "flooring": "wide-plank pale oak hardwood, lightly matte and natural-toned",
+    "architectural_features": [
+      "subtle ceiling cove",
+      "large north-facing windows"
+    ],
+    "background_space": "exterior city view through the north-facing windows with a quiet glimpse of the adjoining hall beyond the room",
+    "light_quality": "cool north daylight from the side windows, with secondary light from a matte-black floor lamp and a small overhead pendant"
+  },
+  "focal_point": "The opposite wall centered on the media console axis, kept calm and uncluttered.",
+  "color_palette": {
+    "dominant_60": {
+      "color": "soft white and oat linen",
+      "applied_to": "walls, rug, curtains, and the main seating mass"
+    },
+    "secondary_30": {
+      "color": "pale oak and warm greige",
+      "applied_to": "flooring, the coffee table, the media console, and the mirror frame"
+    },
+    "accent_10": {
+      "color": "matte black",
+      "applied_to": "window trim, the floor lamp, the pendant, and small hardware"
+    }
+  },
+  "material_thread": "Pale oak, soft linen textiles, and matte black metal accents",
+  "placements": [
+    {
+      "product_id": "b7f32884-87c9-4910-aac2-503d6ed30615",
+      "product_name": "Modern 3-Seater Sofa Premium Boucle Fabric Textured Sofa Couch with Wood Accent Armrests & Rubberwood Legs, Beige - ModernLuxe",
+      "placement": "Centered on the main wall and floated 12-18 inches off it, facing directly toward the opposite wall; keep the front legs on the rug and preserve open circulation on both sides."
+    },
+    {
+      "product_id": "d8f7c2e6-8383-4ed6-9930-e1f33812651a",
+      "product_name": "Modern Accent Chair with Thick Seat Cushion – Beige",
+      "placement": "Placed at the right side of the seating group, slightly forward of the wall and angled 20 degrees inward toward the sofa; let the front legs rest on the rug and keep a clear conversational gap to the sofa and coffee table."
+    },
+    {
+      "product_id": "2a2017de-e7f9-41ee-acf3-f3f3f0d95c0a",
+      "product_name": "Round Coffee Table with Hidden Storage, Minimalist Fluted Accent Table Center Table",
+      "placement": "Centered 14-18 inches in front of the sofa on the rug, aligned to the sofa length and reachable from both seats."
+    },
+    {
+      "product_id": "4675fcf6-2999-4922-9dfe-4017405b39e7",
+      "product_name": "Luck Live Modern 94.48\" TV Stand and Media Console & Entertainment Centers with Large Storage Space",
+      "placement": "Centered on the wall opposite the sofa, kept below eye level with open wall space above it and a clear floor path in front."
+    },
+    {
+      "product_id": "66a9033f-6d4c-40d9-8a01-0f7c91fe61f9",
+      "product_name": "Nourison Textured Home Modern Indoor Rug Ivory Beige 7'10\" x 9'10\"",
+      "placement": "Placed under the sofa and coffee table so the front legs of the sofa and accent chair sit on it, with the rug extending forward to define the conversation zone."
+    },
+    {
+      "product_id": "845f8bf2-854b-4521-9376-94f2ab0bbdbf",
+      "product_name": "2pk 50\"x84\" Blackout Aruba Curtain Panels Sour Cream - Threshold™",
+      "placement": "Hung floor-to-ceiling on the north-facing windows along the side wall, with the rod extended beyond the frame and the panels grazing the floor."
+    },
+    {
+      "product_id": "a459d39a-2a19-4149-a00c-abc9c394ca1a",
+      "product_name": "Modern Textured Ceramic Round Vase White - Threshold™",
+      "placement": "Styled off-center on the coffee table as a small tabletop accent, paired with a few slender stems and kept clear of the seating edge."
+    },
+    {
+      "product_id": "2767d07a-a078-4c73-86ac-f83a01512d72",
+      "product_name": "24\"x30\" Scalloped Wall Mirror Natural Wood - Threshold™",
+      "placement": "Hung on the side wall at eye level near the window zone so it can catch daylight without competing with the main console wall."
+    }
+  ],
+  "scene_description": "Photorealistic interior photography in a three-quarter wide shot from seated eye level, using a 28mm lens with crisp focus and gentle depth so the room feels expansive yet intimate. Compose a calm Nordic Minimalist living room with flat soft-white walls, a subtle ceiling cove, and wide-plank pale oak flooring that reads warm but restrained under cool north daylight. Let the north-facing windows on the side wall bring in even, lateral light; keep the exposure bright and clean, with no golden-hour warmth. Layer the lighting with a matte-black floor lamp and a small overhead pendant to create two additional soft pools of light while preserving the airy daytime feel. The room should feel disciplined and breathable, with generous negative space, no clutter, and a quiet sense of order. Style the surfaces sparingly with books stacked horizontally, one living plant, grouped candles in varied heights, a casually draped throw, and cushions arranged in odd numbers. Keep the overall mood serene, tactile, and uncluttered, with every element contributing to a calm, balanced composition."
+}

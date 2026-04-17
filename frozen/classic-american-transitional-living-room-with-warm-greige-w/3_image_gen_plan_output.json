@@ -1,0 +1,78 @@
+{
+  "design_intent": "Classic American Transitional living room with warm greige walls, mixed wood tones, and comfortable upholstered silhouettes; tailored, inviting, and layered with subtle contrast in cream, taupe, walnut, and aged brass.",
+  "environment": {
+    "wall_treatment": "flat painted",
+    "wall_color": "warm greige with a softly warm undertone",
+    "flooring": "wide-plank oak hardwood in a warm walnut tone",
+    "architectural_features": [
+      "traditional crown moulding",
+      "simple fireplace with painted surround and mantel",
+      "built-in shelving flanking the fireplace",
+      "large front windows with ceiling-height drapery",
+      "cased opening to the adjacent hall"
+    ],
+    "background_space": "partially enclosed townhouse living room with a glimpse of the entry hall through a cased opening and soft exterior daylight through the front windows",
+    "light_quality": "Soft overcast daylight from the front windows, supplemented by a gentle ambient layer from warm wall sconces and a floor lamp"
+  },
+  "focal_point": "Centered fireplace on the far wall",
+  "color_palette": {
+    "dominant_60": {
+      "color": "warm greige",
+      "applied_to": "walls, fireplace surround, and the rug ground"
+    },
+    "secondary_30": {
+      "color": "cream linen and taupe",
+      "applied_to": "curtains, layered soft textiles, and the secondary seating area"
+    },
+    "accent_10": {
+      "color": "walnut and aged brass",
+      "applied_to": "flooring, coffee table, mirror frame, lighting hardware, and small accessories"
+    }
+  },
+  "material_thread": "Warm oak and walnut wood, soft woven textiles, and aged brass details, echoed by painted moulding and a simple fireplace surround.",
+  "placements": [
+    {
+      "product_id": "5f56f395-fc50-4c69-9e98-693fe92ddfe0",
+      "generic_name": "sofa",
+      "product_name": "Farmhouse Beige Linen-like Sofa with Rolled Arm and Nailhead Trim, 3-Seater Couch for Living Room",
+      "placement": "Center the sofa on the long wall opposite the fireplace, floated slightly off the wall; orient it directly toward the fireplace with the front legs on the rug and enough clearance around the sides for a comfortable circulation path."
+    },
+    {
+      "product_id": "cebb36f1-0510-4e3f-b790-e39f76b90ed1",
+      "generic_name": "club chair",
+      "product_name": "Malinta Contemporary Tufted Club Chair Dark Brown/Espresso",
+      "placement": "Set the chair to the left of the sofa, angled inward toward the coffee table and fireplace to complete an L-shaped conversation grouping; keep it slightly forward of the wall with its front legs on the rug."
+    },
+    {
+      "product_id": "9da2909d-831a-4832-b913-8d6ee720aeff",
+      "generic_name": "coffee table",
+      "product_name": "Costway 2-Tier Round Coffee Table with Wood Grain Finish & Heavy-duty Metal Frame",
+      "placement": "Place the coffee table centered on the rug, directly in front of the sofa and about 14\u201318 inches from its front edge; align it with the sofa centerline so it is reachable from the seating group."
+    },
+    {
+      "product_id": "c80b542f-efac-4706-b35c-15db7bad0b47",
+      "generic_name": "area rug",
+      "product_name": "7'X10' Vintage Tufted Distressed Area Rug Tan - Threshold\u2122",
+      "placement": "Lay the rug to define the seating zone, centered under the sofa and chair so their front legs rest on it; keep the rug aligned to the sofa wall with a visible border of floor around the grouping."
+    },
+    {
+      "product_id": "b05c3034-60a3-4341-a977-3090b278a33a",
+      "generic_name": "curtain panels",
+      "product_name": "Heavyweight Velvet Curtain Rod Pocket Panels (Set of 2) Beige 120\u201d",
+      "placement": "Hang the panels high and wide at the main windows, extending beyond the casings and skimming the floor so they frame the glazing without blocking daylight or circulation."
+    },
+    {
+      "product_id": "bb7dd338-aaaf-4296-9054-0a7f3d191d8c",
+      "generic_name": "wall mirror",
+      "product_name": "36\" x 24\" Over the Mantel Mirror Gold - Threshold\u2122: Rounded Top, Metal Frame, Wall Mounted",
+      "placement": "Mount the mirror centered above the fireplace mantel on the focal wall, aligned to the room\u2019s central axis and balanced proportionally to the fireplace below."
+    },
+    {
+      "product_id": "cd36bac5-ee0f-48ac-baa3-18e7ac05815f",
+      "generic_name": "tall vase",
+      "product_name": "Tall Beaded Ceramic Vase Ivory - Threshold\u2122",
+      "placement": "Set the vase on the coffee table slightly off-center toward the sofa side, leaving room nearby for books and candles while keeping the arrangement open and uncluttered."
+    }
+  ],
+  "scene_description": "Photorealistic interior photography, captured from seated eye level with a 28mm lens in a three-quarter wide shot that shows two walls, the main seating zone, and a touch of ceiling and floor. The townhouse living room should feel classic American transitional: flat warm greige walls, traditional crown moulding, a centered fireplace as the focal wall, and wide-plank oak flooring in a warm walnut tone. Let soft overcast daylight filter through tall front windows dressed with ceiling-height panels, while a gentle secondary glow from wall sconces and a floor lamp adds warmth without overpowering the natural light. Keep the composition tailored but relaxed, with generous negative space around the rug and a clear path through the room. Style the surfaces with horizontally stacked books, grouped candles at varied heights, one substantial living plant, a casually draped throw, and cushions arranged in odd numbers with mixed scale and texture so the room feels collected rather than staged. Maintain crisp natural shadows, moderate depth of field, and subtle contrast in cream, taupe, walnut, and aged brass."
+}

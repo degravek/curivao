@@ -1,0 +1,98 @@
+{
+  "dominant_style": "Eclectic Bohemian",
+  "secondary_style": null,
+  "forbidden_styles": [
+    "Refined Industrial",
+    "Nordic Minimalist",
+    "Classic American Transitional",
+    "Coastal Hamptons",
+    "Warm Japandi",
+    "Modern Farmhouse",
+    "Art Deco Revival"
+  ],
+  "design_intent": "Eclectic Bohemian living room with layered textiles, warm jewel tones, global patterns, carved wood, and collected vintage character in a relaxed, artful atmosphere.",
+  "room_type": "living room",
+  "setting": "city apartment",
+  "light_quality_hint": "overcast soft light",
+  "color_palette": [
+    "terracotta",
+    "deep teal",
+    "saffron gold",
+    "indigo",
+    "warm walnut"
+  ],
+  "selected_pieces": [
+    {
+      "product_id": "b7f32884-87c9-4910-aac2-503d6ed30615",
+      "product_name": "Modern 3-Seater Sofa Premium Boucle Fabric Textured Sofa Couch with Wood Accent Armrests & Rubberwood Legs, Beige - ModernLuxe",
+      "category": "seating",
+      "spatial_role": "anchor",
+      "placement_note": "Float the sofa centered on the main wall, angled slightly toward the room, with its back left open to define the seating zone and leave space for layered pillows and a patterned throw.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_bb3f4921-db63-4a9e-a29a-f05af054dcc4",
+      "dimensions": "79\"W x 30\"D x 27\"H"
+    },
+    {
+      "product_id": "601b1c12-48be-403a-8682-6a5ab8ede266",
+      "product_name": "Costway Rattan Coffee Table Mid Century Modern Center Table with 2 Storage Drawers",
+      "category": "table",
+      "spatial_role": "secondary",
+      "placement_note": "Place the coffee table directly in front of the sofa, centered on a faded rug, leaving about 16\u201318 inches of circulation space around it for a relaxed conversation layout.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_54a307cb-875c-438a-9186-1381787835ae",
+      "dimensions": "40\"W x 20\"D x 16\"H"
+    },
+    {
+      "product_id": "e3d37b06-b309-4a8d-9431-a31068143321",
+      "product_name": "VINGLI TV Stands & Entertainment Centers For Tvs Up To 70'' Farmhouse with 18'' Fireplace",
+      "category": "storage",
+      "spatial_role": "secondary",
+      "placement_note": "Position the media console against the opposite wall as a low visual counterbalance, with art and layered decor styled above it and the fireplace glow acting as a warm focal point.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_e92b3a96-47dc-4cea-8bd9-2aae340132ae",
+      "dimensions": "59\"W x 16\"D x 24\"H"
+    },
+    {
+      "product_id": "ebc73d37-ef85-46a2-b716-8198cf862260",
+      "product_name": "5'x7' Washable Fringed Medallion Area Rug Rust - Threshold\u2122",
+      "category": "textile",
+      "spatial_role": "secondary",
+      "placement_note": "Anchor the entire seating group with the rug beneath the front legs of the sofa and coffee table so the rust medallion pattern reads as the room\u2019s textile foundation.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_b79de807-edd7-456a-86f3-43c93f68a5d6",
+      "dimensions": "60\"W x 84\"D x 0\"H"
+    },
+    {
+      "product_id": "d83719b7-a3b4-4cc0-91ec-2049d8c108cf",
+      "product_name": "Oversized Blocked Woven Square Throw Pillow Neutral - Threshold\u2122",
+      "category": "accessory",
+      "spatial_role": "accent",
+      "placement_note": "Layer two pillows near the outer corners of the sofa, mixing them with more colorful textiles so the woven texture softens the seating silhouette.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_fae732d1-6768-4a4c-98fb-627464c98c9c",
+      "dimensions": "24\"W x 24\"D x 3\"H"
+    },
+    {
+      "product_id": "14dc8644-8d73-4555-a663-4084f2935e23",
+      "product_name": "Stone Washed and Distressed Cotton Decor Throw Pillow Cover And Pillow Insert Set - Becky Cameron, Stone Washed Olive, 20 x 20",
+      "category": "accessory",
+      "spatial_role": "accent",
+      "placement_note": "Tuck this olive pillow slightly in front of the neutral woven pillow to introduce depth and a muted jewel-tone accent within the sofa grouping.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_45bf71e6-e9bc-4660-bbc4-3adcb4bd61fb",
+      "dimensions": "20\"W x 20\"D x 4\"H"
+    },
+    {
+      "product_id": "31459d00-3b59-4469-b55f-fe871ce3cbd3",
+      "product_name": "Square Floral Pillow - Threshold\u2122",
+      "category": "accessory",
+      "spatial_role": "accent",
+      "placement_note": "Place one floral pillow at a sofa corner or on an accent chair to add the most visibly global, collected layer of pattern and color.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_3e38443b-cd54-4fd8-9274-0c97d57a5e4c",
+      "dimensions": "18\"W x 18\"D x 6\"H"
+    },
+    {
+      "product_id": "2b5492c0-ed5c-4423-8f10-f96946a15bb4",
+      "product_name": "Pottery Arch Handle Planter for Home Decor - Decorative Flower Pot for Living Room Decor, Shelf Accent, and Patio - Indoor and Outdoor - 8\", White",
+      "category": "accessory",
+      "spatial_role": "accent",
+      "placement_note": "Set the planter on the media console or a side table near one end of the room, using a tall leafy plant to add height and a lived-in bohemian softness.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_f37342f0-5ead-4705-9991-cc6dde874caf",
+      "dimensions": "9\"W x 9\"D x 8\"H"
+    }
+  ]
+}

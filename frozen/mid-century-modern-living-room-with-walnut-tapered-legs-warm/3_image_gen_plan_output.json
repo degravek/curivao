@@ -1,0 +1,83 @@
+{
+  "design_intent": "A warm, optimistic living room with walnut tones, tapered-leg silhouettes, clean-lined upholstery, and mustard-teal accents that nod to atomic-age mid-century charm without losing transitional comfort.",
+  "environment": {
+    "wall_treatment": "flat painted",
+    "wall_color": "warm linen greige with a softly creamy undertone",
+    "flooring": "wide-plank oak hardwood in a medium walnut-brown stain",
+    "architectural_features": [
+      "crown moulding",
+      "centered fireplace with a simple painted surround and mantel",
+      "built-in shelving flanking the fireplace",
+      "large south-facing windows"
+    ],
+    "background_space": "a partial glimpse of an adjacent hallway and the bright window wall to the side",
+    "light_quality": "bright midday south light with crisp daylight and soft interior bounce"
+  },
+  "focal_point": "A centered fireplace on the far wall, flanked by built-in shelving, as viewed from the main seating group.",
+  "color_palette": {
+    "dominant_60": {
+      "color": "warm linen greige",
+      "applied_to": "walls, the primary rug field, and the larger upholstered seating surfaces"
+    },
+    "secondary_30": {
+      "color": "walnut brown",
+      "applied_to": "flooring, fireplace mantel, built-ins, and wood-toned table accents"
+    },
+    "accent_10": {
+      "color": "warm mustard and muted teal, with matte black accents",
+      "applied_to": "throw pillows, small accessories, art styling, and lighting hardware"
+    }
+  },
+  "material_thread": "Walnut-stained wood, painted millwork, and linen textiles, punctuated by matte black metal and a restrained brass accent.",
+  "placements": [
+    {
+      "product_id": "0e5de42c-a91f-4c83-9e5b-4e3928779ecc",
+      "generic_name": "sofa",
+      "product_name": "Erommy 3 Seat Sofa with 4 Wood Legs, Modern Sofa Couch for Living Room, Bedroom, Apartment, Office",
+      "placement": "Centered on the main seating wall and floated a few inches off it, oriented directly toward the fireplace across the room; keep its front legs on the rug and leave 14–18 inches to the coffee table for comfortable reach."
+    },
+    {
+      "product_id": "e7dba5a1-91be-42c1-ac7c-5c229846627c",
+      "generic_name": "loveseat",
+      "product_name": "Tree City- 58\" Upholstered Mid-Century Modern Faux Leather Square Arm Sofa Loveseat",
+      "placement": "Set on the window-side edge of the conversation group, opposite and slightly offset from the sofa, angled about 10–15 degrees toward the coffee table and fireplace so the seating reads as an open conversational pair."
+    },
+    {
+      "product_id": "9da2909d-831a-4832-b913-8d6ee720aeff",
+      "generic_name": "coffee table",
+      "product_name": "Costway 2-Tier Round Coffee Table with Wood Grain Finish & Heavy-duty Metal Frame",
+      "placement": "Centered between the sofa and loveseat on the rug, kept 14–18 inches from the sofa front edge and equally reachable from both seats, with clear circulation around the perimeter."
+    },
+    {
+      "product_id": "c80b542f-efac-4706-b35c-15db7bad0b47",
+      "generic_name": "area rug",
+      "product_name": "7'X10' Vintage Tufted Distressed Area Rug Tan - Threshold™",
+      "placement": "Laid parallel to the main seating wall beneath the entire conversation zone, sized so the front legs of both seating pieces rest on it while the rug extends well beyond the coffee table."
+    },
+    {
+      "product_id": "3f7633df-ecc8-49aa-a0c8-f68ca88360f9",
+      "generic_name": "throw pillows",
+      "product_name": "2-Pack Yarn-Dyed Patterns Gray Throw Pillows - Becky Cameron, Gray Yarn-Dyed Bengal Stripe / Yarn-Dyed Framed Stripe, 20 x 20",
+      "placement": "Layered across the sofa in an uneven cluster, concentrated toward the outer thirds and mixed with the other pillows to keep the arrangement relaxed rather than mirrored."
+    },
+    {
+      "product_id": "8c26edab-7c25-4b19-b341-99da12ef79fc",
+      "generic_name": "throw pillows",
+      "product_name": "Square Linen Throw Pillow with Flange Neutral - Threshold™",
+      "placement": "Placed at the outer ends of the sofa and echoed on the loveseat, distributed in a controlled but asymmetrical way so the seating group feels soft and collected."
+    },
+    {
+      "product_id": "bb7dd338-aaaf-4296-9054-0a7f3d191d8c",
+      "generic_name": "wall mirror",
+      "product_name": "36\" x 24\" Over the Mantel Mirror Gold - Threshold™: Rounded Top, Metal Frame, Wall Mounted",
+      "placement": "Centered above the sofa on the wall behind it, aligned to the sofa midpoint and hung high enough for comfortable clearance while reinforcing the room’s central axis."
+    },
+    {
+      "product_id": "306db125-4c8f-4714-b003-a8efc1b59af0",
+      "generic_name": "decorative vase",
+      "product_name": "Sculpted Textured Metal Vase for Living Room Decor - Decorative Flower Vase for Home, Bedroom, and Office Desk Decor -11\", Gold & Metallic",
+      "placement": "Set slightly off-center on the coffee table as a small tabletop accent, leaving open surface area around it for layered styling and clear sightlines across the room."
+    }
+  ],
+  "scene_description": "Photorealistic interior photography in a three-quarter wide shot from seated eye level with a 28mm lens, opening the room in depth so the main seating wall, the fireplace axis, and the bright window side all register at once. Keep the shell classic American Transitional: flat-painted warm linen greige walls, crisp crown moulding, a centered fireplace with a simple surround and mantel, and built-in shelving that gives the room a refined architectural backbone. The flooring should read as wide-plank oak in a walnut-brown tone, with bright midday south light washing across it in clean, optimistic clarity. Style the room with quiet optimism and a subtle atomic-age pulse: warm mustard and muted teal accents, a single substantial plant, a few horizontally stacked books on a low surface, grouped candles in varying heights, and a casually draped throw that keeps the atmosphere relaxed. Use layered natural light plus a pair of understated artificial fixtures in matte black and warm brass so the room feels equally polished day or night, with generous negative space preserved around the conversation zone."
+}

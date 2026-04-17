@@ -1,0 +1,82 @@
+{
+  "design_intent": "Warm Japandi living room with raw linen, low-profile wood forms, wabi-sabi ceramics, muted earth tones, and quiet handmade imperfection in a calm, airy composition.",
+  "environment": {
+    "wall_treatment": "flat painted",
+    "wall_color": "soft sand beige with muted taupe undertones",
+    "flooring": "wide-plank white oak hardwood in a pale warm oak finish",
+    "architectural_features": [
+      "ceiling cove",
+      "large windows",
+      "recessed media wall"
+    ],
+    "background_space": "Exterior view through large glazing with a minimal hallway glimpse.",
+    "light_quality": "Overcast soft daylight from the large windows, diffuse and shadow-soft, with a gentle warm lamp layer."
+  },
+  "focal_point": "Centered media wall with TV above the console on the wall opposite the sofa.",
+  "color_palette": {
+    "dominant_60": {
+      "color": "sand beige with muted taupe undertones",
+      "applied_to": "walls, the main rug field, and the large seating upholstery"
+    },
+    "secondary_30": {
+      "color": "warm oak",
+      "applied_to": "flooring and the wood furniture surfaces/architectural wood accents"
+    },
+    "accent_10": {
+      "color": "clay and soft charcoal",
+      "applied_to": "small pillows, ceramic accessories, lamp accents, and book details"
+    }
+  },
+  "material_thread": "Warm oak, woven natural textiles, and matte ceramic, echoed in the flooring, low wood furnishings, soft seating textiles, and restrained decorative objects.",
+  "placements": [
+    {
+      "product_id": "b7f32884-87c9-4910-aac2-503d6ed30615",
+      "generic_name": "sofa",
+      "product_name": "Modern 3-Seater Sofa Premium Boucle Fabric Textured Sofa Couch with Wood Accent Armrests & Rubberwood Legs, Beige - ModernLuxe",
+      "placement": "Float centered on the main wall, pulled slightly off the wall so it reads lightly in the room, and orient it directly toward the media wall; keep it anchored on the rug with the coffee table centered 14–18 inches in front."
+    },
+    {
+      "product_id": "d4397450-fd3a-49b9-9d58-74a8d5ab18c9",
+      "generic_name": "accent chair",
+      "product_name": "Arnaud Bent Wood modern Upholstered Accent Chair",
+      "placement": "Place to the right of the sofa and angle it inward toward the coffee table and media wall to form a quiet conversation nook; keep it on the rug with clear floor space beneath and comfortable circulation between it and the sofa."
+    },
+    {
+      "product_id": "e04d0dbf-5c82-44e3-a73e-e90b8d5842ea",
+      "generic_name": "coffee table",
+      "product_name": "Wooden Round Pedestal Coffee Table - Natural",
+      "placement": "Center it on the sofa axis in front of the seating group, 14–18 inches from the sofa edge, with its full footprint on the rug and enough clearance for easy reach from the sofa and chair."
+    },
+    {
+      "product_id": "66a9033f-6d4c-40d9-8a01-0f7c91fe61f9",
+      "generic_name": "area rug",
+      "product_name": "Nourison Textured Home Modern Indoor Rug Ivory Beige 7'10\" x 9'10\"",
+      "placement": "Lay it as the main seating anchor beneath the sofa and accent chair so the front legs of both seating pieces rest on it, with the coffee table fully centered over the field and the rug defining the conversation zone."
+    },
+    {
+      "product_id": "fb2f6bae-d9c1-4f92-80d1-045954962482",
+      "generic_name": "media console",
+      "product_name": "Modern Rattan TV Stand For TV Up To 65 Inch Entertainment Center Media Console Cabinet With Sliding Door,abstract,Light Wood,59in,4.92ft",
+      "placement": "Center it on the wall opposite the sofa beneath the TV area, keeping it low and aligned with the seating sightline while leaving breathing room to either side and clear circulation in front."
+    },
+    {
+      "product_id": "844dead5-eb7e-436d-b1c4-d10ee2abbd5a",
+      "generic_name": "throw pillows",
+      "product_name": "2pk Square Cotton Woven Stripe Throw Pillows Neutral/Ivory - Threshold™",
+      "placement": "Layer one at each outer corner of the sofa, slightly staggered front-to-back so the arrangement feels relaxed and asymmetrical while staying balanced across the seating group."
+    },
+    {
+      "product_id": "a459d39a-2a19-4149-a00c-abc9c394ca1a",
+      "generic_name": "vase",
+      "product_name": "Modern Textured Ceramic Round Vase White - Threshold™",
+      "placement": "Set it on the coffee table slightly off-center, leaving generous negative space around it so the tabletop stays calm and uncluttered."
+    },
+    {
+      "product_id": "cb2e3cf6-b7cc-4d78-b800-f5b67f823da7",
+      "generic_name": "planter",
+      "product_name": "Modern Ceramic Planter with Stand - White Ceramic Pot with Bamboo Base - Indoor & Outdoor Decorative Plant Holder - 8\" White",
+      "placement": "Tuck it on the floor near the window-side corner or just beside the media console, keeping it outside the primary circulation path and using it as a vertical counterpoint to the low seating and console line."
+    }
+  ],
+  "scene_description": "Photorealistic interior photography, shot as a three-quarter wide composition from seated eye level with a 28mm lens, showing two walls, the ceiling cove, and a generous plane of floor for calm negative space. The room should feel like a modern new-build interpreted through Warm Japandi restraint: flat walls in a soft sand-beige tone, wide-plank light oak flooring, subtle built-in geometry, and a quiet media wall as the visual anchor. Large windows bring in overcast daylight that stays diffuse and even, while a floor lamp and a small lamp layer add a soft warm glow. Keep styling sparse and intentional: one living plant, a few horizontally stacked books, grouped candles in varying heights, a casually draped throw, and cushions in odd numbers. Let ceramic accessories and woven textiles read as handmade, quiet, and imperfectly balanced. Avoid visual clutter so the composition remains airy, grounded, and serene."
+}

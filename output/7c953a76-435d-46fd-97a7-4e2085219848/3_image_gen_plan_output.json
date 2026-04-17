@@ -1,0 +1,70 @@
+{
+  "design_intent": "Refined Industrial living room with exposed concrete, warm leather, matte black steel, and dark reclaimed wood; streamlined silhouettes, utilitarian details, and a moody but inviting atmosphere.",
+  "environment": {
+    "wall_treatment": "exposed concrete",
+    "wall_color": "cool charcoal-gray concrete with a matte, softly mottled finish",
+    "flooring": "polished concrete in a slightly deeper charcoal tone",
+    "architectural_features": [
+      "steel-framed factory windows",
+      "exposed ductwork",
+      "a structural concrete column",
+      "an open-plan loft opening to the adjacent kitchen and circulation zone"
+    ],
+    "background_space": "open-plan loft with a partial view toward the kitchen and entry circulation beyond the seating area",
+    "light_quality": "Overcast soft daylight filtered through the factory windows, diffuse and shadowless, with a second layer of low ambient lamp light for warmth"
+  },
+  "focal_point": "The media wall on the far side of the room, centered on the TV zone above the low stand and facing the seating group",
+  "color_palette": {
+    "dominant_60": {
+      "color": "charcoal concrete gray",
+      "applied_to": "exposed concrete walls, polished concrete flooring, and the room's largest architectural planes"
+    },
+    "secondary_30": {
+      "color": "warm cognac leather",
+      "applied_to": "the primary seating zone, layered textiles, and the warmer notes that soften the industrial envelope"
+    },
+    "accent_10": {
+      "color": "aged brass",
+      "applied_to": "the coffee table, small decorative accents, and reflective highlights; echoed by matte black steel and reclaimed walnut details"
+    }
+  },
+  "material_thread": "Exposed concrete, matte black steel, and reclaimed walnut, with aged brass used sparingly as the warm metal accent",
+  "placements": [
+    {
+      "product_id": "cebb36f1-0510-4e3f-b790-e39f76b90ed1",
+      "product_name": "Malinta Contemporary Tufted Club Chair Dark Brown/Espresso",
+      "placement": "Place on the right side of the seating zone, angled about 30 degrees toward the media wall, with the front edge just inside the rug and roughly 16–18 inches from the coffee table; keep it fully visible and leave clear walking space to its outer side."
+    },
+    {
+      "product_id": "47f5a998-f075-49f5-aec2-39bef86d2fc0",
+      "product_name": "Manila Round Hammered Drum Coffee Table Brass - Threshold™",
+      "placement": "Center on the rug along the axis between the chair and the media wall, about 16–18 inches in front of the chair's seated edge, with even clearance around all sides and no overlap into the circulation path."
+    },
+    {
+      "product_id": "e2fdafa1-f44d-4fbb-b67c-5aea3a42d05a",
+      "product_name": "Costway TV Stand for Up to 55\" TVs Entertainment Center with 3-Tier Storage Shelves & Cable Hole Black/White",
+      "placement": "Position centered on the main wall opposite the chair, directly beneath the TV zone, with equal wall clearance to both sides and enough open floor around it to read as the room's media anchor."
+    },
+    {
+      "product_id": "c80b542f-efac-4706-b35c-15db7bad0b47",
+      "product_name": "7'X10' Vintage Tufted Distressed Area Rug Tan - Threshold™",
+      "placement": "Lay centered under the coffee table and chair so the chair's front legs rest on it, orienting the rug to the seating axis and leaving a clean concrete border visible around the perimeter."
+    },
+    {
+      "product_id": "f8032285-438d-475b-8475-7d9e087ad7a1",
+      "product_name": "Small Brass Vase - Threshold™",
+      "placement": "Set on the top shelf of the TV stand, slightly off-center beside a small stack of books, within the media grouping and away from the shelf edge."
+    },
+    {
+      "product_id": "8b62cb4d-62e5-442f-922b-928623182e35",
+      "product_name": "Square Composite Indoor Outdoor Planter Pot 12\"x12\"x14\" Charcoal Gray - Threshold™",
+      "placement": "Place in the rear left corner near the concrete wall, a few inches off both walls, so the plant rises vertically without blocking the sightline to the media wall."
+    },
+    {
+      "product_id": "844dead5-eb7e-436d-b1c4-d10ee2abbd5a",
+      "product_name": "2pk Square Cotton Woven Stripe Throw Pillows Neutral/Ivory - Threshold™",
+      "placement": "Stage one pillow on the chair and the second just behind it within the same seating vignette, creating an asymmetrical pair that keeps the lounge area looking relaxed and lived-in."
+    }
+  ],
+  "scene_description": "Photorealistic interior photography in a three-quarter wide shot from seated eye level with a 28mm lens, capturing two walls, floor depth, and a sliver of ceiling. Build the room as a refined industrial loft: exposed concrete, polished concrete floors, steel-framed factory windows, and visible ductwork set a cool architectural base, while a restrained mix of matte black steel, reclaimed walnut, and aged brass keeps the mood warm enough to live in. The far wall should read as the composition's anchor, with the adjacent loft opening and circulation kept visually clear so the space feels expansive. Use overcast soft daylight as the primary illumination, then layer in two understated lamps for a softer evening-ready glow. Style the scene sparingly with horizontal book stacks, a single tall living plant, grouped candles in varied heights, a casually draped throw, and cushions arranged in odd numbers; keep negative space generous so the room feels edited, moody, and inviting rather than crowded."
+}

@@ -1,0 +1,76 @@
+{
+  "design_intent": "Sun-drenched Coastal California living room with bleached oak, natural rattan, linen, and sea-glass tones; relaxed, airy, and softly tailored with light textures and breezy warmth.",
+  "environment": {
+    "wall_treatment": "painted shiplap",
+    "wall_color": "soft warm white with a driftwood-beige undertone",
+    "flooring": "wide-plank bleached oak hardwood",
+    "architectural_features": [
+      "large south-facing windows",
+      "subtle ceiling cove",
+      "shallow built-in display ledge on the wall opposite the windows"
+    ],
+    "background_space": "exterior view through the glazing with a quiet glimpse of the adjoining circulation path",
+    "light_quality": "bright midday south light flooding in from the window wall, softened by drapery and bounced across pale surfaces"
+  },
+  "focal_point": "TV wall on the short end wall, with the screen centered above the media console and the seating oriented toward it",
+  "color_palette": {
+    "dominant_60": {
+      "color": "soft driftwood beige",
+      "applied_to": "shiplap walls, the rug field, and the broad visual ground of the room"
+    },
+    "secondary_30": {
+      "color": "oat linen",
+      "applied_to": "drapery, secondary textiles, and layered soft furnishings"
+    },
+    "accent_10": {
+      "color": "sea glass blue",
+      "applied_to": "small cushions, books, candles, and a few restrained decorative accents"
+    }
+  },
+  "material_thread": "Bleached oak, natural rattan, and linen, echoed in the flooring, the media console, and the layered textiles.",
+  "placements": [
+    {
+      "product_id": "204973a1-5b8f-4781-a48c-2dbe9a51f67c",
+      "generic_name": "sectional sofa",
+      "product_name": "Dyonery 158\" Extra Large Modular Sectional Sofa, CHENILLE Fabric with Deep Seat, Tool-Free Assembly",
+      "placement": "Float it centered on the main seating axis, running parallel to the window wall and facing the short wall with the TV; keep it well off the walls so a clear walkway runs behind it, and shape the configuration into a loose open U around the coffee table with the front legs resting on the rug."
+    },
+    {
+      "product_id": "e04d0dbf-5c82-44e3-a73e-e90b8d5842ea",
+      "generic_name": "coffee table",
+      "product_name": "Wooden Round Pedestal Coffee Table - Natural",
+      "placement": "Center it on the rug within the opening of the sectional, about 16 inches from the seating edge, so every seat can reach it comfortably without interrupting circulation."
+    },
+    {
+      "product_id": "fb2f6bae-d9c1-4f92-80d1-045954962482",
+      "generic_name": "media console",
+      "product_name": "Modern Rattan TV Stand For TV Up To 65 Inch Entertainment Center Media Console Cabinet With Sliding Door,abstract,Light Wood,59in,4.92ft",
+      "placement": "Center it on the short focal wall beneath the mounted TV, aligned to the seating axis with balanced side clearances and enough wall space above to keep the screen visually grounded."
+    },
+    {
+      "product_id": "6875d55b-019e-4699-9875-2f9b611ef8d8",
+      "generic_name": "area rug",
+      "product_name": "7'x10' Woven Area Rug Indigo - Threshold™",
+      "placement": "Lay it under the primary seating group, aligned with the sectional so the front legs rest on it and the coffee table sits fully within the central field, leaving a clean border of exposed floor around the perimeter."
+    },
+    {
+      "product_id": "845f8bf2-854b-4521-9376-94f2ab0bbdbf",
+      "generic_name": "curtain panels",
+      "product_name": "2pk 50\"x84\" Blackout Aruba Curtain Panels Sour Cream - Threshold™",
+      "placement": "Hang them high and wide across the full window wall from near the ceiling line to just above the floor, keeping the panels stacked clear of the glass so the midday light stays bright but softened."
+    },
+    {
+      "product_id": "2767d07a-a078-4c73-86ac-f83a01512d72",
+      "generic_name": "wall mirror",
+      "product_name": "24\"x30\" Scalloped Wall Mirror Natural Wood - Threshold™",
+      "placement": "Mount it on the wall opposite the windows, centered above the shallow built-in display ledge and slightly above console height, where it can reflect daylight back toward the seating group without competing with the TV wall."
+    },
+    {
+      "product_id": "cb2e3cf6-b7cc-4d78-b800-f5b67f823da7",
+      "generic_name": "planter",
+      "product_name": "Modern Ceramic Planter with Stand - White Ceramic Pot with Bamboo Base - Indoor & Outdoor Decorative Plant Holder - 8\" White",
+      "placement": "Set it in the front corner nearest the windows, outside the main walking route, where it acts as a vertical counterpoint to the low seating cluster and softens the edge of the glazing."
+    }
+  ],
+  "scene_description": "Photorealistic interior photography, three-quarter wide shot from seated eye level with a 28mm lens, capturing two walls, the airy ceiling cove, and the sun-washed floor of a relaxed coastal living room. The architecture should feel clean and minimal: painted shiplap in a soft warm white with a driftwood-beige cast, wide-plank bleached oak flooring, large south-facing windows, and a restrained built-in ledge that keeps the room from feeling bare. Bright midday light pours in from the window wall and is gently tempered by ceiling-height drapery, leaving the room luminous rather than washed out. The composition should read calm and tailored, with generous negative space, a clear conversational center, and no visual clutter. Add a few horizontally stacked books, grouped candles in varying heights, one substantial plant, a casually draped throw, and odd-numbered cushions in mixed scales and textures to give the room a lived-in coastal softness. Keep the secondary lamp layer simple and understated, with matching brushed-metal finishes, so the overall mood stays breezy, quiet, and sun-drenched."
+}

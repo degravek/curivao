@@ -1,0 +1,87 @@
+{
+  "dominant_style": "Refined Industrial",
+  "secondary_style": null,
+  "forbidden_styles": [
+    "Coastal Hamptons",
+    "Mediterranean Tuscan",
+    "Eclectic Bohemian",
+    "Modern Farmhouse",
+    "Art Deco Revival"
+  ],
+  "design_intent": "Refined Industrial living room with exposed concrete, warm leather, matte black steel, and dark reclaimed wood; streamlined silhouettes, utilitarian details, and a moody but inviting atmosphere.",
+  "room_type": "living room",
+  "setting": "urban loft",
+  "light_quality_hint": "overcast soft light",
+  "color_palette": [
+    "warm cognac leather",
+    "charcoal concrete gray",
+    "matte black",
+    "reclaimed walnut",
+    "aged brass"
+  ],
+  "selected_pieces": [
+    {
+      "product_id": "cebb36f1-0510-4e3f-b790-e39f76b90ed1",
+      "product_name": "Malinta Contemporary Tufted Club Chair Dark Brown/Espresso",
+      "category": "seating",
+      "spatial_role": "secondary",
+      "placement_note": "Place as a single lounge chair angled 30 degrees toward the sofa, on the right side of the conversation area, with a small black metal side table beside it.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_a4be6620-8bac-4706-be51-4379f225f3ed",
+      "dimensions": "45\"W x 33\"D x 34\"H"
+    },
+    {
+      "product_id": "47f5a998-f075-49f5-aec2-39bef86d2fc0",
+      "product_name": "Manila Round Hammered Drum Coffee Table Brass - Threshold\u2122",
+      "category": "table",
+      "spatial_role": "secondary",
+      "placement_note": "Center it in front of the seating group, leaving a clear 16-18 inch circulation gap around the sofa and chair, with its brass finish catching the soft ambient light.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_02b75f1e-658a-4916-9ebd-0db1815b3634",
+      "dimensions": "26\"W x 26\"D x 12\"H"
+    },
+    {
+      "product_id": "e2fdafa1-f44d-4fbb-b67c-5aea3a42d05a",
+      "product_name": "Costway TV Stand for Up to 55\" TVs Entertainment Center with 3-Tier Storage Shelves & Cable Hole Black/White",
+      "category": "table",
+      "spatial_role": "secondary",
+      "placement_note": "Float it along the main wall opposite the seating, centered under the TV area, with the open shelving used for books and a few dark ceramic objects.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_4a1bc86f-7482-44db-9428-8ca40fda155d",
+      "dimensions": "16\"W x 47\"D x 24\"H"
+    },
+    {
+      "product_id": "c80b542f-efac-4706-b35c-15db7bad0b47",
+      "product_name": "7'X10' Vintage Tufted Distressed Area Rug Tan - Threshold\u2122",
+      "category": "textile",
+      "spatial_role": "anchor",
+      "placement_note": "Lay it under the front legs of the sofa and chair, centered on the coffee table, to soften the concrete floor and define the lounge zone with a muted, worn-in pattern.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_efba98d6-0faf-4a8a-894f-296b259b5f2e",
+      "dimensions": "84\"W x 120\"D x 0\"H"
+    },
+    {
+      "product_id": "f8032285-438d-475b-8475-7d9e087ad7a1",
+      "product_name": "Small Brass Vase - Threshold\u2122",
+      "category": "accessory",
+      "spatial_role": "accent",
+      "placement_note": "Style on the TV stand\u2019s top shelf, slightly off-center beside a stack of books, as a small reflective accent that echoes the coffee table\u2019s brass tone.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_e267a29d-8b12-4aac-9cd1-53886bfc7b0b",
+      "dimensions": "4\"W x 4\"D x 7\"H"
+    },
+    {
+      "product_id": "8b62cb4d-62e5-442f-922b-928623182e35",
+      "product_name": "Square Composite Indoor Outdoor Planter Pot 12\"x12\"x14\" Charcoal Gray - Threshold\u2122",
+      "category": "accessory",
+      "spatial_role": "accent",
+      "placement_note": "Place in a rear corner near the concrete wall with a tall architectural plant, adding vertical balance and a soft organic shape against the hard industrial surfaces.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_06d3fd43-d07e-4abf-992d-ee2b530562ad",
+      "dimensions": "12\"W x 12\"D x 14\"H"
+    },
+    {
+      "product_id": "844dead5-eb7e-436d-b1c4-d10ee2abbd5a",
+      "product_name": "2pk Square Cotton Woven Stripe Throw Pillows Neutral/Ivory - Threshold\u2122",
+      "category": "textile",
+      "spatial_role": "accent",
+      "placement_note": "Layer one pillow on the leather chair and the other at the outer corner of the sofa to introduce a subtle woven texture without interrupting the dark tonal palette.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_a49ce0f7-2778-486a-a24a-69fc24562f4e",
+      "dimensions": "18\"W x 18\"D x 12\"H"
+    }
+  ]
+}

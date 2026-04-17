@@ -1,0 +1,91 @@
+{
+  "dominant_style": "Classic American Transitional",
+  "secondary_style": null,
+  "forbidden_styles": [
+    "Warm Japandi",
+    "Coastal Hamptons",
+    "Moody Maximalist",
+    "Mediterranean Tuscan",
+    "Modern Farmhouse",
+    "Refined Industrial",
+    "Eclectic Bohemian",
+    "Nordic Minimalist",
+    "Art Deco Revival"
+  ],
+  "design_intent": "Classic American Transitional living room with warm greige walls, mixed wood tones, and comfortable upholstered silhouettes; tailored, inviting, and layered with subtle contrast in cream, taupe, walnut, and aged brass.",
+  "room_type": "living room",
+  "setting": "townhouse",
+  "light_quality_hint": "overcast soft light",
+  "color_palette": [
+    "warm greige",
+    "cream linen",
+    "walnut",
+    "taupe",
+    "aged brass"
+  ],
+  "selected_pieces": [
+    {
+      "product_id": "5f56f395-fc50-4c69-9e98-693fe92ddfe0",
+      "product_name": "Farmhouse Beige Linen-like Sofa with Rolled Arm and Nailhead Trim, 3-Seater Couch for Living Room",
+      "category": "seating",
+      "spatial_role": "anchor",
+      "placement_note": "Center the sofa on the main wall, floating it slightly off the greige paint to create a classic conversational layout; place a low wood coffee table directly in front and leave breathing room for a large rug beneath.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_6d5c61c6-e4b4-48d2-ae0d-816f96b0b0ea",
+      "dimensions": "88\"W x 35\"D x 35\"H"
+    },
+    {
+      "product_id": "cebb36f1-0510-4e3f-b790-e39f76b90ed1",
+      "product_name": "Malinta Contemporary Tufted Club Chair Dark Brown/Espresso",
+      "category": "seating",
+      "spatial_role": "secondary",
+      "placement_note": "Angle this chair to the left of the sofa, slightly forward of the wall, to form a comfortable L-shaped conversation grouping; pair it with a small side table and allow the wood legs to show against the rug.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_a4be6620-8bac-4706-be51-4379f225f3ed",
+      "dimensions": "45\"W x 33\"D x 34\"H"
+    },
+    {
+      "product_id": "9da2909d-831a-4832-b913-8d6ee720aeff",
+      "product_name": "Costway 2-Tier Round Coffee Table with Wood Grain Finish & Heavy-duty Metal Frame",
+      "category": "table",
+      "spatial_role": "secondary",
+      "placement_note": "Place the coffee table centered on the rug in front of the sofa, keeping the round top aligned with the seating group; style the lower shelf lightly so the mixed-material base reads as understated and transitional.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_3a26da1b-5317-4086-9d3a-4f7b8a7520cd",
+      "dimensions": "34\"W x 34\"D x 18\"H"
+    },
+    {
+      "product_id": "c80b542f-efac-4706-b35c-15db7bad0b47",
+      "product_name": "7'X10' Vintage Tufted Distressed Area Rug Tan - Threshold\u2122",
+      "category": "textile",
+      "spatial_role": "anchor",
+      "placement_note": "Lay the rug so the front legs of the sofa and chair sit on it, anchoring the whole arrangement and softening the room with a warm, timeworn pattern in tan and muted taupe.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_efba98d6-0faf-4a8a-894f-296b259b5f2e",
+      "dimensions": "84\"W x 120\"D x 0\"H"
+    },
+    {
+      "product_id": "b05c3034-60a3-4341-a977-3090b278a33a",
+      "product_name": "Heavyweight Velvet Curtain Rod Pocket Panels (Set of 2) Beige 120\u201d",
+      "category": "textile",
+      "spatial_role": "accent",
+      "placement_note": "Hang the panels high and wide at the main windows so they skim the floor in soft folds, adding vertical softness and a refined finished edge to the room.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_b0ee1692-92ff-4968-bc1f-94767498959e",
+      "dimensions": null
+    },
+    {
+      "product_id": "bb7dd338-aaaf-4296-9054-0a7f3d191d8c",
+      "product_name": "36\" x 24\" Over the Mantel Mirror Gold - Threshold\u2122: Rounded Top, Metal Frame, Wall Mounted",
+      "category": "accessory",
+      "spatial_role": "accent",
+      "placement_note": "Mount the mirror above a fireplace mantel or console on the focal wall, centered to catch the overcast light and add a subtle aged-brass note that complements the mixed wood tones.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_04d096b1-84d1-4d80-8847-81305664f4bb",
+      "dimensions": "36\"W x 1\"D x 24\"H"
+    },
+    {
+      "product_id": "cd36bac5-ee0f-48ac-baa3-18e7ac05815f",
+      "product_name": "Tall Beaded Ceramic Vase Ivory - Threshold\u2122",
+      "category": "accessory",
+      "spatial_role": "accent",
+      "placement_note": "Place the vase on the coffee table or a nearby console with a few simple stems, using its ivory tone and fluted texture to add quiet sculptural interest without visual clutter.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_08928384-df06-4b06-bab4-0b50be4869ca",
+      "dimensions": "6\"W x 6\"D x 12\"H"
+    }
+  ]
+}

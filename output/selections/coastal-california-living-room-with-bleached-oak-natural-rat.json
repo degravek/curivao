@@ -1,0 +1,89 @@
+{
+  "dominant_style": "Coastal Hamptons",
+  "secondary_style": "Nordic Minimalist",
+  "forbidden_styles": [
+    "Refined Industrial",
+    "Moody Maximalist",
+    "Mediterranean Tuscan",
+    "Art Deco Revival",
+    "Modern Farmhouse",
+    "Eclectic Bohemian",
+    "Classic American Transitional"
+  ],
+  "design_intent": "Sun-drenched Coastal California living room with bleached oak, natural rattan, linen, and sea-glass tones; relaxed, airy, and softly tailored with light textures and breezy warmth.",
+  "room_type": "living room",
+  "setting": "coastal house",
+  "light_quality_hint": "bright midday south light",
+  "color_palette": [
+    "bleached oak",
+    "natural rattan",
+    "oat linen",
+    "sea glass blue",
+    "soft driftwood beige"
+  ],
+  "selected_pieces": [
+    {
+      "product_id": "204973a1-5b8f-4781-a48c-2dbe9a51f67c",
+      "product_name": "Dyonery 158\" Extra Large Modular Sectional Sofa, CHENILLE Fabric with Deep Seat, Tool-Free Assembly",
+      "category": "seating",
+      "spatial_role": "anchor",
+      "placement_note": "Float the sectional on the main seating wall in an open U-shape, leaving a generous walkway behind it; orient the long side toward the windows so the chenille catches the daylight softly.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_da787906-2555-48bb-96c8-afff6d8fb71c",
+      "dimensions": "158\"W × 61\"D × 36\"H"
+    },
+    {
+      "product_id": "e04d0dbf-5c82-44e3-a73e-e90b8d5842ea",
+      "product_name": "Wooden Round Pedestal Coffee Table - Natural",
+      "category": "table",
+      "spatial_role": "secondary",
+      "placement_note": "Center it over the rug directly in front of the sectional, keeping about 16 inches of clearance from the sofa for an easy coastal lounge layout.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_886fce3d-7cb2-4515-9222-61027bc31216",
+      "dimensions": "32\"W × 32\"D × 18\"H"
+    },
+    {
+      "product_id": "fb2f6bae-d9c1-4f92-80d1-045954962482",
+      "product_name": "Modern Rattan TV Stand For TV Up To 65 Inch Entertainment Center Media Console Cabinet With Sliding Door,abstract,Light Wood,59in,4.92ft",
+      "category": "storage",
+      "spatial_role": "secondary",
+      "placement_note": "Place it centered on the TV wall, low and horizontal beneath the screen, with a few inches of breathing room on each side so the rattan fronts remain visually open.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_885acf99-7437-4138-87e5-a9cfa8b89631",
+      "dimensions": "59\"W × 16\"D × 20\"H"
+    },
+    {
+      "product_id": "6875d55b-019e-4699-9875-2f9b611ef8d8",
+      "product_name": "7'x10' Woven Area Rug Indigo - Threshold™",
+      "category": "textile",
+      "spatial_role": "anchor",
+      "placement_note": "Lay the rug so the front legs of the sectional and any chairs sit on it, anchoring the seating group with its woven texture and subdued indigo striation.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_fc268539-7440-44ce-b846-b865a12aeeea",
+      "dimensions": "84\"W × 120\"D × 0\"H"
+    },
+    {
+      "product_id": "845f8bf2-854b-4521-9376-94f2ab0bbdbf",
+      "product_name": "2pk 50\"x84\" Blackout Aruba Curtain Panels Sour Cream - Threshold™",
+      "category": "textile",
+      "spatial_role": "accent",
+      "placement_note": "Hang the curtains high and wide on the window wall, brushing just above the floor to soften the bright south light without darkening the room.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_94d93179-85fd-4f77-8ac1-fa4d8c2b04c1",
+      "dimensions": "50\"W × 84\"D × 0\"H"
+    },
+    {
+      "product_id": "2767d07a-a078-4c73-86ac-f83a01512d72",
+      "product_name": "24\"x30\" Scalloped Wall Mirror Natural Wood - Threshold™",
+      "category": "accessory",
+      "spatial_role": "accent",
+      "placement_note": "Mount it on the wall opposite the windows, slightly above console height, to bounce light deeper into the room and echo the soft coastal curves of the seating.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_9f208943-7d72-4c07-94f8-278cac98c895",
+      "dimensions": "24\"W × 1\"D × 30\"H"
+    },
+    {
+      "product_id": "cb2e3cf6-b7cc-4d78-b800-f5b67f823da7",
+      "product_name": "Modern Ceramic Planter with Stand - White Ceramic Pot with Bamboo Base - Indoor & Outdoor Decorative Plant Holder - 8\" White",
+      "category": "accessory",
+      "spatial_role": "accent",
+      "placement_note": "Set it in one front corner near the windows, where the bamboo base and white ceramic can read as a quiet sculptural note against the daylight.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_c3c6b503-c2e1-4da0-a74c-7307f5b47245",
+      "dimensions": "6\"W × 6\"D × 8\"H"
+    }
+  ]
+}

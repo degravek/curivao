@@ -1,0 +1,36 @@
+You work as a master photorealistic interior design renderer for a premium "buy this look" furniture retail platform. Customers will view your generated images and can purchase the exact, real-world furniture pieces displayed within them. Your task is to compose a high-end, photorealistic living space using the exact furniture pieces provided in the attached reference images. You must integrate these items naturally into the described environment while preserving their exact real-world appearance without any alteration.
+
+=== Environment ===
+Photorealistic interior photography in a three-quarter wide shot from a corner at seated eye level with a 28–35mm lens, so the room reads with natural depth from the foreground rug edge to the far focal wall. The envelope is warm white painted shiplap with simple trim, paired with wide-plank natural oak flooring and a straightforward fireplace media wall that gives the suburban living room a grounded, family-ready center. Tall windows on the south side bring in bright midday light, softened by full-height drapery, while a pair of simple matte black wall sconces and a matching floor lamp add a quiet secondary glow. Keep the styling edited and livable: a few horizontal stacks of books, one substantial indoor plant for height, grouped candles in mixed heights, an easy throw draped casually, and cushions arranged in odd numbers for a relaxed, lived-in rhythm. Preserve generous negative space around the main seating zone so the room feels warm, tailored, and comfortable rather than crowded.
+
+=== Important ===
+The room must feel aspirational but achievable — real enough to want, beautiful enough to inspire. The composition must feel like a designed space, not a furniture showroom with items dropped in. The reference photographs are the single source of truth for each product's appearance. Reproduce its silhouette, proportions, color, material, texture, pattern, hardware, leg style, arm style, frame profile, and every construction detail exactly as shown. Do not substitute, stylize, simplify, or 'improve' any piece. A user must be able to recognize each product in the final image and buy the exact item.
+
+=== Note Regarding Reference Images ===
+When processing the reference images, cognitively isolate the furniture items from their original backgrounds. You must seamlessly integrate these isolated pieces into the new 3D architectural space, applying the room's lighting, ambient occlusion, and floor-contact shadows to the items so they belong in the environment.
+
+If the scene's 28mm camera perspective requires the item to be viewed from a different angle than the original reference photo, accurately extrapolate the 3D geometry of the piece. You must maintain absolute strict adherence to the original proportions, patterns, silhouette, and face/side details. Do not distort or warp the furniture to fit the perspective; instead, build the room's perspective around the true scale and shape of the references.
+
+=== Product Visibility ===
+Because this is a shoppable retail image, every reference piece must remain prominently and clearly visible. Do not obscure key design elements, legs, arms, or silhouettes behind styling props, large plants, deep shadows, or overlapping furniture. The customer must be able to clearly see and evaluate what they are buying.
+
+[5f56f395-fc50-4c69-9e98-693fe92ddfe0 | 88"W x 35"D x 35"H] — Centered on the main shiplap wall and floated slightly off it so the seating reads as grounded but not pushed flat to the perimeter; orient it directly toward the fireplace media wall, with equal breathing room on both sides and enough depth in front for the coffee table.:
+(image)
+
+[e04d0dbf-5c82-44e3-a73e-e90b8d5842ea | 32"W x 32"D x 18"H] — Placed directly in front of the sofa, centered on the rug and aligned to the sofa's midpoint, with about 15 inches of clearance from the sofa edge and comfortable circulation around the sides.:
+(image)
+
+[e3d37b06-b309-4a8d-9431-a31068143321 | 59"W x 16"D x 24"H] — Set centered on the wall opposite the sofa, directly on the room axis so it functions as the focal wall from the primary seating; leave balanced clearance to either side and keep the sightline unobstructed from sofa to media wall.:
+(image)
+
+[c80b542f-efac-4706-b35c-15db7bad0b47 | 84"W x 120"D x 0"H] — Laid under the full conversation zone, parallel to the sofa, with the front legs of the sofa resting on it and the coffee table fully centered within its boundaries.:
+(image)
+
+[4f8dff60-1bfd-4524-b2e8-3548b09601cc] — Hung at the main south-facing windows from near ceiling height to the floor, with the panel stacked cleanly to one side so the glazing stays open and bright.:
+(image)
+
+[844dead5-eb7e-436d-b1c4-d10ee2abbd5a | 18"W x 18"D x 12"H] — Placed as a pair at the outer ends of the sofa, layered against the back cushions to soften the seating composition while keeping the center line open toward the coffee table.:
+(image)
+
+[42869a6c-6dd6-4787-bcca-cdddb32159d6 | 13"W x 13"D x 16"H] — Set on the floor beside the media console at the outer edge of the fireplace wall, just off the main circulation path and visible from the sofa without interrupting the approach.:
+(image)

@@ -1,0 +1,81 @@
+{
+  "dominant_style": "Refined Industrial",
+  "secondary_style": null,
+  "forbidden_styles": [
+    "Warm Japandi",
+    "Classic American Transitional",
+    "Coastal Hamptons",
+    "Mediterranean Tuscan",
+    "Modern Farmhouse",
+    "Eclectic Bohemian",
+    "Nordic Minimalist",
+    "Art Deco Revival"
+  ],
+  "design_intent": "Moody Refined Industrial loft living room with dark metals, exposed brick, worn leather, smoked wood, and a restrained palette grounded in charcoal and cognac.",
+  "room_type": "living room",
+  "setting": "urban loft",
+  "light_quality_hint": "overcast soft light",
+  "color_palette": [
+    "charcoal black",
+    "aged cognac leather",
+    "smoked oak",
+    "burnished steel",
+    "weathered brick red"
+  ],
+  "selected_pieces": [
+    {
+      "product_id": "cebb36f1-0510-4e3f-b790-e39f76b90ed1",
+      "product_name": "Malinta Contemporary Tufted Club Chair Dark Brown/Espresso",
+      "category": "seating",
+      "spatial_role": "anchor",
+      "placement_note": "Place as the primary lounge chair angled slightly inward near the brick wall, with its back just off the wall and a small black side table beside the right arm.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_a4be6620-8bac-4706-be51-4379f225f3ed",
+      "dimensions": "45\"W x 33\"D x 34\"H"
+    },
+    {
+      "product_id": "33a6b783-85d9-4b99-9c6d-9a26fba72767",
+      "product_name": "Costway Coffee Table Retro Mid-Century Coffee Table W/Storage Open Shelf Living Room",
+      "category": "table",
+      "spatial_role": "secondary",
+      "placement_note": "Center the coffee table in front of the seating area, aligned parallel to the sofa/chair arrangement, with the open shelf facing outward toward the camera for a lived-in utilitarian look.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_8d845fef-b7d4-45bc-8aa1-76a533ca0162",
+      "dimensions": "20\"W x 28\"D x 16\"H"
+    },
+    {
+      "product_id": "e2fdafa1-f44d-4fbb-b67c-5aea3a42d05a",
+      "product_name": "Costway TV Stand for Up to 55\" TVs Entertainment Center with 3-Tier Storage Shelves & Cable Hole Black/White",
+      "category": "table",
+      "spatial_role": "secondary",
+      "placement_note": "Float the console against the exposed brick wall as the media anchor, with the TV centered above it and a few styled objects spaced sparsely on the open shelves.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_4a1bc86f-7482-44db-9428-8ca40fda155d",
+      "dimensions": "16\"W x 47\"D x 24\"H"
+    },
+    {
+      "product_id": "66a9033f-6d4c-40d9-8a01-0f7c91fe61f9",
+      "product_name": "Nourison Textured Home Modern Indoor Rug Ivory Beige 7'10\" x 9'10\"",
+      "category": "textile",
+      "spatial_role": "secondary",
+      "placement_note": "Lay the rug under the main seating grouping with the front legs of the chair and sofa area resting on it to soften the concrete-and-brick envelope while keeping the palette quiet and grounded.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_4f5864ee-7caa-476a-a93a-f3ef47bc1e16",
+      "dimensions": "94\"W x 118\"D x 0\"H"
+    },
+    {
+      "product_id": "b05c3034-60a3-4341-a977-3090b278a33a",
+      "product_name": "Heavyweight Velvet Curtain Rod Pocket Panels (Set of 2) Beige 120\u201d",
+      "category": "textile",
+      "spatial_role": "accent",
+      "placement_note": "Hang the curtain panels floor-to-ceiling on the tallest window opening, letting them pool just slightly to add softness against the hard brick and steel finishes.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_b0ee1692-92ff-4968-bc1f-94767498959e",
+      "dimensions": null
+    },
+    {
+      "product_id": "306db125-4c8f-4714-b003-a8efc1b59af0",
+      "product_name": "Sculpted Textured Metal Vase for Living Room Decor - Decorative Flower Vase for Home, Bedroom, and Office Desk Decor -11\", Gold & Metallic",
+      "category": "accessory",
+      "spatial_role": "accent",
+      "placement_note": "Place on the TV console or coffee table as a small metallic sculptural note, offset to one side with a single branch or left empty for a more austere industrial edit.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_4161e2db-9abd-40a0-9b72-0cd8198fee4b",
+      "dimensions": "4\"W x 10\"D x 10\"H"
+    }
+  ]
+}

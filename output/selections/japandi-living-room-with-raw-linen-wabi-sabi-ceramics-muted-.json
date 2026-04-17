@@ -1,0 +1,99 @@
+{
+  "dominant_style": "Warm Japandi",
+  "secondary_style": "Nordic Minimalist",
+  "forbidden_styles": [
+    "Moody Maximalist",
+    "Mediterranean Tuscan",
+    "Modern Farmhouse",
+    "Refined Industrial",
+    "Eclectic Bohemian",
+    "Classic American Transitional",
+    "Coastal Hamptons",
+    "Art Deco Revival"
+  ],
+  "design_intent": "Warm Japandi living room with raw linen, low-profile wood forms, wabi-sabi ceramics, muted earth tones, and quiet handmade imperfection in a calm, airy composition.",
+  "room_type": "living room",
+  "setting": "modern new-build",
+  "light_quality_hint": "overcast soft light",
+  "color_palette": [
+    "sand beige",
+    "warm oak",
+    "muted taupe",
+    "clay",
+    "soft charcoal"
+  ],
+  "selected_pieces": [
+    {
+      "product_id": "b7f32884-87c9-4910-aac2-503d6ed30615",
+      "product_name": "Modern 3-Seater Sofa Premium Boucle Fabric Textured Sofa Couch with Wood Accent Armrests & Rubberwood Legs, Beige - ModernLuxe",
+      "category": "seating",
+      "spatial_role": "anchor",
+      "placement_note": "Float centered on the main wall, slightly off the floor on slim legs, with the back kept visually light and the sofa aligned to face the coffee table.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_bb3f4921-db63-4a9e-a29a-f05af054dcc4",
+      "dimensions": "79\"W × 30\"D × 27\"H"
+    },
+    {
+      "product_id": "d4397450-fd3a-49b9-9d58-74a8d5ab18c9",
+      "product_name": "Arnaud Bent Wood modern Upholstered Accent Chair",
+      "category": "seating",
+      "spatial_role": "secondary",
+      "placement_note": "Place angled near the sofa on the right side to create a quiet conversation nook, leaving open floor space beneath the curved frame.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_96711f89-f3eb-4c64-91cd-222cdc2a8ae7",
+      "dimensions": "32\"W × 28\"D × 29\"H"
+    },
+    {
+      "product_id": "e04d0dbf-5c82-44e3-a73e-e90b8d5842ea",
+      "product_name": "Wooden Round Pedestal Coffee Table - Natural",
+      "category": "table",
+      "spatial_role": "secondary",
+      "placement_note": "Center in front of the sofa with generous negative space around it, letting the round pedestal base read as a grounded sculptural mass.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_886fce3d-7cb2-4515-9222-61027bc31216",
+      "dimensions": "32\"W × 32\"D × 18\"H"
+    },
+    {
+      "product_id": "66a9033f-6d4c-40d9-8a01-0f7c91fe61f9",
+      "product_name": "Nourison Textured Home Modern Indoor Rug Ivory Beige 7'10\" x 9'10\"",
+      "category": "textile",
+      "spatial_role": "secondary",
+      "placement_note": "Lay beneath the front legs of the sofa and chair so the seating group sits fully grounded within a soft ivory-beige field.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_4f5864ee-7caa-476a-a93a-f3ef47bc1e16",
+      "dimensions": "94\"W × 118\"D × 1\"H"
+    },
+    {
+      "product_id": "fb2f6bae-d9c1-4f92-80d1-045954962482",
+      "product_name": "Modern Rattan TV Stand For TV Up To 65 Inch Entertainment Center Media Console Cabinet With Sliding Door,abstract,Light Wood,59in,4.92ft",
+      "category": "storage",
+      "spatial_role": "secondary",
+      "placement_note": "Position along the media wall opposite the sofa, kept low and centered with the TV hovering above so the slatted doors remain the primary texture.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_885acf99-7437-4138-87e5-a9cfa8b89631",
+      "dimensions": "59\"W × 16\"D × 20\"H"
+    },
+    {
+      "product_id": "844dead5-eb7e-436d-b1c4-d10ee2abbd5a",
+      "product_name": "2pk Square Cotton Woven Stripe Throw Pillows Neutral/Ivory - Threshold™",
+      "category": "textile",
+      "spatial_role": "accent",
+      "placement_note": "Layer two pillows at the sofa corners, one slightly forward of the other, to add soft woven texture without breaking the palette.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_a49ce0f7-2778-486a-a24a-69fc24562f4e",
+      "dimensions": "18\"W × 18\"D × 12\"H"
+    },
+    {
+      "product_id": "a459d39a-2a19-4149-a00c-abc9c394ca1a",
+      "product_name": "Modern Textured Ceramic Round Vase White - Threshold™",
+      "category": "accessory",
+      "spatial_role": "accent",
+      "placement_note": "Set on the coffee table slightly off-center with a single clipped branch or left empty for a wabi-sabi, sculptural moment.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_e3852e62-4d4f-49ee-a96a-27161a99e87f",
+      "dimensions": "8\"W × 8\"D × 8\"H"
+    },
+    {
+      "product_id": "cb2e3cf6-b7cc-4d78-b800-f5b67f823da7",
+      "product_name": "Modern Ceramic Planter with Stand - White Ceramic Pot with Bamboo Base - Indoor & Outdoor Decorative Plant Holder - 8\" White",
+      "category": "accessory",
+      "spatial_role": "accent",
+      "placement_note": "Tuck near the window or a corner beside the media console to bring in a soft vertical note and a touch of living greenery.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_c3c6b503-c2e1-4da0-a74c-7307f5b47245",
+      "dimensions": "6\"W × 6\"D × 8\"H"
+    }
+  ]
+}

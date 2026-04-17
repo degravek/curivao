@@ -1,0 +1,70 @@
+{
+  "design_intent": "Moody Refined Industrial loft living room with dark metals, exposed brick, worn leather, smoked wood, and a restrained palette grounded in charcoal and cognac.",
+  "environment": {
+    "wall_treatment": "Exposed brick",
+    "wall_color": "Weathered brick red with charcoal-soot undertones",
+    "flooring": "Polished concrete in a warm graphite-gray tone",
+    "architectural_features": [
+      "Steel-framed factory windows",
+      "Exposed ductwork",
+      "Wide loft opening to the adjacent kitchen"
+    ],
+    "background_space": "Open-plan kitchen and circulation zone visible through a broad loft opening beyond the seating area",
+    "light_quality": "Overcast soft light from the factory windows, supplemented by a warm floor lamp beside the seating zone and subtle ambient wall grazing on the media wall"
+  },
+  "focal_point": "TV centered above the media console on the exposed brick wall",
+  "color_palette": {
+    "dominant_60": {
+      "color": "Charcoal black with warm graphite undertones",
+      "applied_to": "The dominant metalwork, media wall hardware, window frames, lighting finishes, and shadow-heavy structural elements"
+    },
+    "secondary_30": {
+      "color": "Weathered brick red",
+      "applied_to": "The exposed brick wall planes and the broader warm architectural field of the loft"
+    },
+    "accent_10": {
+      "color": "Aged cognac leather with burnished steel accents",
+      "applied_to": "The lounge chair, small decorative objects, and restrained metallic details"
+    }
+  },
+  "material_thread": "Exposed brick, blackened steel, and smoked oak, with worn leather as the warm counterpoint",
+  "placements": [
+    {
+      "product_id": "cebb36f1-0510-4e3f-b790-e39f76b90ed1",
+      "generic_name": "club chair",
+      "product_name": "Malinta Contemporary Tufted Club Chair Dark Brown/Espresso",
+      "placement": "Float it in the primary seating zone near the brick wall, kept a few inches off the surface and angled slightly inward toward the media wall so it faces the TV directly; preserve enough clearance behind it for circulation and enough reach to the coffee table in front."
+    },
+    {
+      "product_id": "33a6b783-85d9-4b99-9c6d-9a26fba72767",
+      "generic_name": "coffee table",
+      "product_name": "Costway Coffee Table Retro Mid-Century Coffee Table W/Storage Open Shelf Living Room",
+      "placement": "Center it on the rug directly in front of the chair, aligned parallel to the media wall and set about 16 inches from the chair\u2019s front edge so it remains fully reachable from the seating position."
+    },
+    {
+      "product_id": "e2fdafa1-f44d-4fbb-b67c-5aea3a42d05a",
+      "generic_name": "media console",
+      "product_name": "Costway TV Stand for Up to 55\" TVs Entertainment Center with 3-Tier Storage Shelves & Cable Hole Black/White",
+      "placement": "Center it on the exposed brick focal wall beneath the TV, with balanced margins on both sides and the chair sightline aimed straight toward it; keep it visually anchored to the wall without blocking the traffic path."
+    },
+    {
+      "product_id": "66a9033f-6d4c-40d9-8a01-0f7c91fe61f9",
+      "generic_name": "area rug",
+      "product_name": "Nourison Textured Home Modern Indoor Rug Ivory Beige 7'10\" x 9'10\"",
+      "placement": "Lay it under the full seating vignette, aligned to the media wall so the chair\u2019s front legs and the coffee table sit on it, with a clear concrete border visible around the perimeter."
+    },
+    {
+      "product_id": "b05c3034-60a3-4341-a977-3090b278a33a",
+      "generic_name": "curtain panels",
+      "product_name": "Heavyweight Velvet Curtain Rod Pocket Panels (Set of 2) Beige 120\u201d",
+      "placement": "Hang them floor-to-ceiling on the tallest steel-framed window opening along the side wall, letting the rod extend beyond the frame and the hems graze or lightly pool on the floor to soften the industrial shell."
+    },
+    {
+      "product_id": "306db125-4c8f-4714-b003-a8efc1b59af0",
+      "generic_name": "decorative vase",
+      "product_name": "Sculpted Textured Metal Vase for Living Room Decor - Decorative Flower Vase for Home, Bedroom, and Office Desk Decor -11\", Gold & Metallic",
+      "placement": "Place it on the TV console at one end, offset from the screen centerline so it reads as a small accent and preserves open negative space across the media wall."
+    }
+  ],
+  "scene_description": "Photorealistic interior photography in a three-quarter wide shot from seated eye level with a 28mm lens, looking diagonally across a moody urban loft living room. The space should feel grounded in exposed brick, polished concrete, steel-framed factory windows, and visible ductwork, with the media wall as the clear visual anchor and an open-plan kitchen softly receding in the background. Keep the daylight cool, diffuse, and overcast, with no harsh sun patches; supplement it with a warm floor lamp and subtle ambient wall light so the seating zone reads inviting against the harder architecture. Preserve generous negative space and crisp circulation around the vignette. Style the room sparingly but intentionally: a few horizontal book stacks with aligned spines, one substantial plant, grouped candles in mixed heights, a casually draped throw, and cushions in odd numbers to add lived-in texture without clutter. The overall mood should be quiet, tactile, and restrained, balancing charcoal shadow, brick warmth, smoked wood, and cognac accents."
+}

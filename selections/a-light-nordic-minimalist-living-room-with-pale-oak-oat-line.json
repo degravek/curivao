@@ -1,0 +1,99 @@
+{
+  "dominant_style": "Nordic Minimalist",
+  "secondary_style": null,
+  "forbidden_styles": [
+    "Moody Maximalist",
+    "Mediterranean Tuscan",
+    "Modern Farmhouse",
+    "Refined Industrial",
+    "Eclectic Bohemian",
+    "Art Deco Revival",
+    "Classic American Transitional",
+    "Coastal Hamptons"
+  ],
+  "design_intent": "A serene Nordic Minimalist living room with pale oak, oat linen, soft whites, and airy proportions, grounded by clean lines and tactile restraint under cool natural daylight.",
+  "room_type": "living room",
+  "setting": "city apartment",
+  "light_quality_hint": "cool north light",
+  "color_palette": [
+    "pale oak",
+    "oat linen",
+    "soft white",
+    "warm greige",
+    "matte black"
+  ],
+  "selected_pieces": [
+    {
+      "product_id": "d8f7c2e6-8383-4ed6-9930-e1f33812651a",
+      "product_name": "Modern Accent Chair with Thick Seat Cushion \u2013 Beige",
+      "category": "seating",
+      "spatial_role": "secondary",
+      "placement_note": "Placed at the right side of the seating group, angled 20 degrees toward the sofa to create an intimate conversation corner; keep it slightly pulled forward from the wall.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_23d8916c-1d24-44c5-8735-4ef7e91e21ac",
+      "dimensions": "29\"W x 29\"D x 36\"H"
+    },
+    {
+      "product_id": "b7f32884-87c9-4910-aac2-503d6ed30615",
+      "product_name": "Modern 3-Seater Sofa Premium Boucle Fabric Textured Sofa Couch with Wood Accent Armrests & Rubberwood Legs, Beige - ModernLuxe",
+      "category": "seating",
+      "spatial_role": "anchor",
+      "placement_note": "Centered on the main wall, floated about 12\u201318 inches off it, with the back aligned to a pale oak coffee table and generous negative space around the silhouette.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_bb3f4921-db63-4a9e-a29a-f05af054dcc4",
+      "dimensions": "79\"W x 30\"D x 27\"H"
+    },
+    {
+      "product_id": "2a2017de-e7f9-41ee-acf3-f3f3f0d95c0a",
+      "product_name": "Round Coffee Table with Hidden Storage, Minimalist Fluted Accent Table Center Table",
+      "category": "table",
+      "spatial_role": "secondary",
+      "placement_note": "Placed centrally in front of the sofa with equal clearance on all sides, anchoring the seating area while keeping the floor plan visually light.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_9a248fb8-9f16-44af-a7bc-e957cf3741bd",
+      "dimensions": "32\"W x 32\"D x 14\"H"
+    },
+    {
+      "product_id": "4675fcf6-2999-4922-9dfe-4017405b39e7",
+      "product_name": "Luck Live Modern 94.48\" TV Stand and Media Console & Entertainment Centers with Large Storage Space",
+      "category": "table",
+      "spatial_role": "secondary",
+      "placement_note": "Mounted against the opposite wall as a low horizontal media console, visually balancing the sofa with a slim profile and leaving wall space above it open and uncluttered.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_69525cd2-4a92-4551-a14c-3a35d7adba3f",
+      "dimensions": "94\"W x 16\"D x 22\"H"
+    },
+    {
+      "product_id": "66a9033f-6d4c-40d9-8a01-0f7c91fe61f9",
+      "product_name": "Nourison Textured Home Modern Indoor Rug Ivory Beige 7'10\" x 9'10\"",
+      "category": "textile",
+      "spatial_role": "secondary",
+      "placement_note": "Layered under the sofa and coffee table with roughly 8\u201310 inches extending beyond the front sofa legs, defining the lounge zone in a soft ivory-beige field.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_4f5864ee-7caa-476a-a93a-f3ef47bc1e16",
+      "dimensions": "94\"W x 118\"D x 0\"H"
+    },
+    {
+      "product_id": "845f8bf2-854b-4521-9376-94f2ab0bbdbf",
+      "product_name": "2pk 50\"x84\" Blackout Aruba Curtain Panels Sour Cream - Threshold\u2122",
+      "category": "accessory",
+      "spatial_role": "accent",
+      "placement_note": "Hung floor-to-ceiling on the main windows, slightly puddled or just kissing the floor to soften the cool north light and add vertical calm.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_94d93179-85fd-4f77-8ac1-fa4d8c2b04c1",
+      "dimensions": null
+    },
+    {
+      "product_id": "a459d39a-2a19-4149-a00c-abc9c394ca1a",
+      "product_name": "Modern Textured Ceramic Round Vase White - Threshold\u2122",
+      "category": "accessory",
+      "spatial_role": "accent",
+      "placement_note": "Styled on the coffee table off-center with a few slender stems, providing a small sculptural focal point without clutter.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_e3852e62-4d4f-49ee-a96a-27161a99e87f",
+      "dimensions": "8\"W x 8\"D x 8\"H"
+    },
+    {
+      "product_id": "2767d07a-a078-4c73-86ac-f83a01512d72",
+      "product_name": "24\"x30\" Scalloped Wall Mirror Natural Wood - Threshold\u2122",
+      "category": "accessory",
+      "spatial_role": "accent",
+      "placement_note": "Hung above the media console or on an adjacent side wall at eye level to bounce light and echo the room\u2019s pale oak tones with a softened organic edge.",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_9f208943-7d72-4c07-94f8-278cac98c895",
+      "dimensions": "24\"W x 1\"D x 30\"H"
+    }
+  ]
+}

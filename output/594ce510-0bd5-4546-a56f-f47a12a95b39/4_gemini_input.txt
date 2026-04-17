@@ -1,0 +1,39 @@
+You work as a master photorealistic interior design renderer for a premium "buy this look" furniture retail platform. Customers will view your generated images and can purchase the exact, real-world furniture pieces displayed within them. Your task is to compose a high-end, photorealistic living space using the exact furniture pieces provided in the attached reference images. You must integrate these items naturally into the described environment while preserving their exact real-world appearance without any alteration.
+
+=== Environment ===
+Photorealistic interior photography in a three-quarter wide shot from seated eye level, using a 28mm lens with crisp focus and gentle depth so the room feels expansive yet intimate. Compose a calm Nordic Minimalist living room with flat soft-white walls, a subtle ceiling cove, and wide-plank pale oak flooring that reads warm but restrained under cool north daylight. Let the north-facing windows on the side wall bring in even, lateral light; keep the exposure bright and clean, with no golden-hour warmth. Layer the lighting with a matte-black floor lamp and a small overhead pendant to create two additional soft pools of light while preserving the airy daytime feel. The room should feel disciplined and breathable, with generous negative space, no clutter, and a quiet sense of order. Style the surfaces sparingly with books stacked horizontally, one living plant, grouped candles in varied heights, a casually draped throw, and cushions arranged in odd numbers. Keep the overall mood serene, tactile, and uncluttered, with every element contributing to a calm, balanced composition.
+
+=== Important ===
+The room must feel aspirational but achievable — real enough to want, beautiful enough to inspire. The composition must feel like a designed space, not a furniture showroom with items dropped in. The reference photographs are the single source of truth for each product's appearance. Reproduce its silhouette, proportions, color, material, texture, pattern, hardware, leg style, arm style, frame profile, and every construction detail exactly as shown. Do not substitute, stylize, simplify, or 'improve' any piece. A user must be able to recognize each product in the final image and buy the exact item.
+
+=== Note Regarding Reference Images ===
+When processing the reference images, cognitively isolate the furniture items from their original backgrounds. You must seamlessly integrate these isolated pieces into the new 3D architectural space, applying the room's lighting, ambient occlusion, and floor-contact shadows to the items so they belong in the environment.
+
+If the scene's 28mm camera perspective requires the item to be viewed from a different angle than the original reference photo, accurately extrapolate the 3D geometry of the piece. You must maintain absolute strict adherence to the original proportions, patterns, silhouette, and face/side details. Do not distort or warp the furniture to fit the perspective; instead, build the room's perspective around the true scale and shape of the references.
+
+=== Product Visibility ===
+Because this is a shoppable retail image, every reference piece must remain prominently and clearly visible. Do not obscure key design elements, legs, arms, or silhouettes behind styling props, large plants, deep shadows, or overlapping furniture. The customer must be able to clearly see and evaluate what they are buying.
+
+[d8f7c2e6-8383-4ed6-9930-e1f33812651a | 29"W x 29"D x 36"H] — Placed at the right side of the seating group, slightly forward of the wall and angled 20 degrees inward toward the sofa; let the front legs rest on the rug and keep a clear conversational gap to the sofa and coffee table.:
+(image)
+
+[b7f32884-87c9-4910-aac2-503d6ed30615 | 79"W x 30"D x 27"H] — Centered on the main wall and floated 12-18 inches off it, facing directly toward the opposite wall; keep the front legs on the rug and preserve open circulation on both sides.:
+(image)
+
+[2a2017de-e7f9-41ee-acf3-f3f3f0d95c0a | 32"W x 32"D x 14"H] — Centered 14-18 inches in front of the sofa on the rug, aligned to the sofa length and reachable from both seats.:
+(image)
+
+[4675fcf6-2999-4922-9dfe-4017405b39e7 | 94"W x 16"D x 22"H] — Centered on the wall opposite the sofa, kept below eye level with open wall space above it and a clear floor path in front.:
+(image)
+
+[66a9033f-6d4c-40d9-8a01-0f7c91fe61f9 | 94"W x 118"D x 0"H] — Placed under the sofa and coffee table so the front legs of the sofa and accent chair sit on it, with the rug extending forward to define the conversation zone.:
+(image)
+
+[845f8bf2-854b-4521-9376-94f2ab0bbdbf] — Hung floor-to-ceiling on the north-facing windows along the side wall, with the rod extended beyond the frame and the panels grazing the floor.:
+(image)
+
+[a459d39a-2a19-4149-a00c-abc9c394ca1a | 8"W x 8"D x 8"H] — Styled off-center on the coffee table as a small tabletop accent, paired with a few slender stems and kept clear of the seating edge.:
+(image)
+
+[2767d07a-a078-4c73-86ac-f83a01512d72 | 24"W x 1"D x 30"H] — Hung on the side wall at eye level near the window zone so it can catch daylight without competing with the main console wall.:
+(image)

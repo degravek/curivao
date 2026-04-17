@@ -1,0 +1,70 @@
+{
+  "design_intent": "Hollywood Regency living room with high-gloss lacquer, mirrored surfaces, bold geometric pattern, faux fur texture, and polished maximalist glamour.",
+  "environment": {
+    "wall_treatment": "full-height wood panelling with a high-gloss lacquer finish",
+    "wall_color": "deep black-green lacquer, cool-toned and reflective",
+    "flooring": "dark walnut herringbone hardwood with a smoked espresso tone",
+    "architectural_features": [
+      "cove ceiling",
+      "built-in shelving",
+      "large windows"
+    ],
+    "background_space": "exterior city view through tall glazing, with the rest of the apartment kept softly out of focus",
+    "light_quality": "evening with artificial light from layered interior fixtures; windows read dark and reflective"
+  },
+  "focal_point": "A mirror-centered lounge wall on the longest wall opposite the entry.",
+  "color_palette": {
+    "dominant_60": {
+      "color": "black lacquer and mirrored silver",
+      "applied_to": "the principal wall treatment, built-ins, reflective surfaces, and the largest visual planes in the room"
+    },
+    "secondary_30": {
+      "color": "deep emerald and ivory faux fur",
+      "applied_to": "soft furnishings, layered textiles, and accent surfaces that add depth against the dark envelope"
+    },
+    "accent_10": {
+      "color": "champagne gold",
+      "applied_to": "the mirror frame, lighting fixtures, and small tabletop accents"
+    }
+  },
+  "material_thread": "High-gloss lacquer, mirrored glass, brass-toned metal, and plush textiles with a soft faux-fur hand.",
+  "placements": [
+    {
+      "product_id": "fc646fa1-b89b-48d1-995a-523e11c95c6e",
+      "generic_name": "wall mirror",
+      "product_name": "JIONJOY 28 x 28 Metal Round Wall Mirror- Gold",
+      "placement": "Centered above the main sofa on the largest wall, hung slightly high so it catches the artificial light and amplifies reflections across the lounge."
+    },
+    {
+      "product_id": "47f5a998-f075-49f5-aec2-39bef86d2fc0",
+      "generic_name": "coffee table",
+      "product_name": "Manila Round Hammered Drum Coffee Table Brass - Threshold™",
+      "placement": "Centered in front of the seating group and aligned to the room’s main axis, with about 16 inches of clearance from the sofa edge and the table fully sitting within the rug boundary."
+    },
+    {
+      "product_id": "8ee892bf-48a2-4640-94ab-cba43e3ad042",
+      "generic_name": "decorative vase",
+      "product_name": "Glam Decorative Ceramic Leaf Bud Vase for Room and Office Decor, White and Gold, 6 L x 6 W x 8 H Inches",
+      "placement": "Placed off-center on the coffee table as one half of a small tabletop vignette, leaving open surface area for books and serving use."
+    },
+    {
+      "product_id": "f8032285-438d-475b-8475-7d9e087ad7a1",
+      "generic_name": "vase",
+      "product_name": "Small Brass Vase - Threshold™",
+      "placement": "Clustered beside the decorative vase on the coffee table to form a compact grouped arrangement, with both pieces kept away from the table centerline."
+    },
+    {
+      "product_id": "c80b542f-efac-4706-b35c-15db7bad0b47",
+      "generic_name": "area rug",
+      "product_name": "7'X10' Vintage Tufted Distressed Area Rug Tan - Threshold™",
+      "placement": "Laid beneath the full lounge arrangement, oriented parallel to the main sofa, with the front legs of the sofa and chairs resting on it and the edges kept clear of circulation paths."
+    },
+    {
+      "product_id": "b05c3034-60a3-4341-a977-3090b278a33a",
+      "generic_name": "curtain panels",
+      "product_name": "Heavyweight Velvet Curtain Rod Pocket Panels (Set of 2) Beige 120”",
+      "placement": "Hung floor-to-ceiling at the primary window, extending beyond the frame and pooling slightly at the floor so the window wall feels formal and fully dressed."
+    }
+  ],
+  "scene_description": "Photorealistic interior photography of a Hollywood Regency city-apartment living room, shot at seated eye level with a 28–35mm lens in a three-quarter wide composition that captures the room depth, ceiling cove, and floor geometry. The envelope should feel polished and dramatic: glossy dark wall treatment, strong mirrored reflections, crisp architectural lines, and a bold geometric rhythm in the styling. Keep the windows dark and let the room be driven by artificial light only, with a central Art Deco ceiling fixture and paired wall sconces in champagne gold creating layered highlights and soft shadow falloff. Preserve generous negative space around the lounge so the room reads glamorous rather than crowded. Style the surfaces with stacked horizontal books, grouped candles in varied heights, one substantial living plant, and a casually draped throw; use cushions in odd numbers with varied scale and texture to reinforce the luxe, collected mood. The overall feel should be sleek, theatrical, and reflective, with high contrast and a refined maximalist finish."
+}

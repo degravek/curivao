@@ -1,0 +1,36 @@
+You work as a master photorealistic interior design renderer for a premium "buy this look" furniture retail platform. Customers will view your generated images and can purchase the exact, real-world furniture pieces displayed within them. Your task is to compose a high-end, photorealistic living space using the exact furniture pieces provided in the attached reference images. You must integrate these items naturally into the described environment while preserving their exact real-world appearance without any alteration.
+
+=== Environment ===
+Photorealistic interior photography in a three-quarter wide shot from seated eye level with a 28mm lens, capturing two walls, floor depth, and a sliver of ceiling. Build the room as a refined industrial loft: exposed concrete, polished concrete floors, steel-framed factory windows, and visible ductwork set a cool architectural base, while a restrained mix of matte black steel, reclaimed walnut, and aged brass keeps the mood warm enough to live in. The far wall should read as the composition's anchor, with the adjacent loft opening and circulation kept visually clear so the space feels expansive. Use overcast soft daylight as the primary illumination, then layer in two understated lamps for a softer evening-ready glow. Style the scene sparingly with horizontal book stacks, a single tall living plant, grouped candles in varied heights, a casually draped throw, and cushions arranged in odd numbers; keep negative space generous so the room feels edited, moody, and inviting rather than crowded.
+
+=== Important ===
+The room must feel aspirational but achievable — real enough to want, beautiful enough to inspire. The composition must feel like a designed space, not a furniture showroom with items dropped in. The reference photographs are the single source of truth for each product's appearance. Reproduce its silhouette, proportions, color, material, texture, pattern, hardware, leg style, arm style, frame profile, and every construction detail exactly as shown. Do not substitute, stylize, simplify, or 'improve' any piece. A user must be able to recognize each product in the final image and buy the exact item.
+
+=== Note Regarding Reference Images ===
+When processing the reference images, cognitively isolate the furniture items from their original backgrounds. You must seamlessly integrate these isolated pieces into the new 3D architectural space, applying the room's lighting, ambient occlusion, and floor-contact shadows to the items so they belong in the environment.
+
+If the scene's 28mm camera perspective requires the item to be viewed from a different angle than the original reference photo, accurately extrapolate the 3D geometry of the piece. You must maintain absolute strict adherence to the original proportions, patterns, silhouette, and face/side details. Do not distort or warp the furniture to fit the perspective; instead, build the room's perspective around the true scale and shape of the references.
+
+=== Product Visibility ===
+Because this is a shoppable retail image, every reference piece must remain prominently and clearly visible. Do not obscure key design elements, legs, arms, or silhouettes behind styling props, large plants, deep shadows, or overlapping furniture. The customer must be able to clearly see and evaluate what they are buying.
+
+[cebb36f1-0510-4e3f-b790-e39f76b90ed1 | 45"W x 33"D x 34"H] — Place on the right side of the seating zone, angled about 30 degrees toward the media wall, with the front edge just inside the rug and roughly 16–18 inches from the coffee table; keep it fully visible and leave clear walking space to its outer side.:
+(image)
+
+[47f5a998-f075-49f5-aec2-39bef86d2fc0 | 26"W x 26"D x 12"H] — Center on the rug along the axis between the chair and the media wall, about 16–18 inches in front of the chair's seated edge, with even clearance around all sides and no overlap into the circulation path.:
+(image)
+
+[e2fdafa1-f44d-4fbb-b67c-5aea3a42d05a | 16"W x 47"D x 24"H] — Position centered on the main wall opposite the chair, directly beneath the TV zone, with equal wall clearance to both sides and enough open floor around it to read as the room's media anchor.:
+(image)
+
+[c80b542f-efac-4706-b35c-15db7bad0b47 | 84"W x 120"D x 0"H] — Lay centered under the coffee table and chair so the chair's front legs rest on it, orienting the rug to the seating axis and leaving a clean concrete border visible around the perimeter.:
+(image)
+
+[f8032285-438d-475b-8475-7d9e087ad7a1 | 4"W x 4"D x 7"H] — Set on the top shelf of the TV stand, slightly off-center beside a small stack of books, within the media grouping and away from the shelf edge.:
+(image)
+
+[8b62cb4d-62e5-442f-922b-928623182e35 | 12"W x 12"D x 14"H] — Place in the rear left corner near the concrete wall, a few inches off both walls, so the plant rises vertically without blocking the sightline to the media wall.:
+(image)
+
+[844dead5-eb7e-436d-b1c4-d10ee2abbd5a | 18"W x 18"D x 12"H] — Stage one pillow on the chair and the second just behind it within the same seating vignette, creating an asymmetrical pair that keeps the lounge area looking relaxed and lived-in.:
+(image)
