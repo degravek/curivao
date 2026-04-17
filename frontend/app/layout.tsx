@@ -27,6 +27,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className={`${poppins.className} ${dancingScript.variable} h-full`}>
+      <head>
+        <meta name="impact-site-verification" value="081190c2-4b2f-4cdf-ad77-bdefaec5ad03" />
+      </head>
       <body className="min-h-full flex flex-col antialiased">
         <Navbar />
         <main className="flex-1">{children}</main>
