@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import { fetchRoom } from "@/lib/api";
+import { getRoom } from "@/lib/data";
 import { ArrowLeft, ExternalLink } from "lucide-react";
 
 interface PageProps {
@@ -10,10 +10,8 @@ interface PageProps {
 export default async function RoomPage({ params }: PageProps) {
   const { id } = await params;
 
-  let room;
-  try {
-    room = await fetchRoom(id);
-  } catch {
+  const room = await getRoom(id).catch(() => null);
+  if (!room) {
     return (
       <div className="max-w-7xl mx-auto px-6 py-24 text-center">
         <p className="text-muted mb-4">Room not found.</p>

@@ -1,5 +1,5 @@
 import { Suspense } from "react";
-import { fetchRooms } from "@/lib/api";
+import { getRooms } from "@/lib/data";
 import Hero from "@/components/Hero";
 import RoomGrid from "@/components/RoomGrid";
 
@@ -14,7 +14,7 @@ export default async function Home({ searchParams }: PageProps) {
 
   let data;
   try {
-    data = await fetchRooms(limit, page);
+    data = await getRooms(limit, page);
   } catch {
     data = { rooms: [], total: 0, page: 1, limit };
   }
